@@ -1,10 +1,23 @@
 import React from "react"
 import { Link, graphql } from "gatsby"
+import styled from "styled-components"
 
-import Bio from "../components/bio"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import { rhythm, scale } from "../utils/typography"
+
+import _ from "lodash"
+
+const PostDetails = styled.div`
+  margin: ${rhythm(1)} 0;
+  padding: 24px;
+  background: var(--lightBg);
+
+  & ul {
+    list-style: none;
+    margin: 0;
+  }
+`
 
 const BlogPostTemplate = ({ data, pageContext, location }) => {
   const post = data.markdownRemark
@@ -26,25 +39,36 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
           >
             {post.frontmatter.title}
           </h1>
-          <p
+          <PostDetails
             style={{
               ...scale(-1 / 5),
               display: `block`,
               marginBottom: rhythm(1),
             }}
           >
-            {post.frontmatter.date}
-          </p>
+            <ul>
+              <li key="module">
+                <b>Module: </b> 
+                <Link to={'/module/'+_.kebabCase(post.frontmatter.module)}>{post.frontmatter.module}</Link>
+              </li>
+              <li key="category">
+                <b>Category: </b>
+                {post.frontmatter.category}
+              </li>
+              <li key="date">
+                <b>Published: </b>
+                {post.frontmatter.date}
+              </li>
+            </ul>
+          </PostDetails>
         </header>
         <section dangerouslySetInnerHTML={{ __html: post.html }} />
+        
         <hr
           style={{
             marginBottom: rhythm(1),
           }}
         />
-        <footer>
-          <Bio />
-        </footer>
       </article>
 
       <nav>
@@ -94,6 +118,8 @@ export const pageQuery = graphql`
         title
         date(formatString: "MMMM DD, YYYY")
         description
+        module
+        category
       }
     }
   }

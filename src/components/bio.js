@@ -29,6 +29,7 @@ const Bio = () => {
           }
           social {
             twitter
+            linkedin
           }
         }
       }
@@ -40,7 +41,9 @@ const Bio = () => {
     <div
       style={{
         display: `flex`,
-        marginBottom: rhythm(2.5),
+        marginBottom: rhythm(.5),
+        alignItems: `center`,
+        justifyContent: `center`
       }}
     >
       <Image
@@ -56,11 +59,14 @@ const Bio = () => {
           borderRadius: `50%`,
         }}
       />
-      <p>
-        Written by <strong>{author.name}</strong> {author.summary}
+      <p
+        style={{
+          marginBottom: 0
+      }}>
+        A journal by <strong>{author.name}</strong>.
         {` `}
-        <a href={`https://twitter.com/${social.twitter}`}>
-          You should follow him on Twitter
+        <a target="_blank" rel="noreferrer" href={`https://linkedin.com/in/${social.linkedin}`}>
+          Add me on LinkedIn.
         </a>
       </p>
     </div>

@@ -1,0 +1,10 @@
+{
+  "targetAttributes": [
+    "slug"
+  ],
+  "presetFields": [],
+  "displayFieldsInContextMenu": true,
+  "globallyIgnoredFields": [],
+  "classFilesPath": "",
+  "getFromInlineField": true
+}

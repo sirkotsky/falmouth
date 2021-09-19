@@ -1,8 +1,6 @@
 import React from "react"
 import { Link } from "gatsby"
 import { ThemeToggler } from "gatsby-plugin-dark-mode"
-import { scale } from "../utils/typography"
-
 import Footer from "./footer"
 import "./global.css"
 
@@ -56,27 +54,43 @@ const Layout = ({ location, title, children }) => {
     </ThemeToggler>
   )
 
+  const sidebarMenu = [
+    {
+      link: "/",
+      title: title
+    },
+    {
+      link: "/about",
+      title: "About"
+    },
+    {
+      link: "/modules",
+      title: "Modules"
+    },
+  ]
+
   const header = (
     <>
       {toggle}
-      <h2
-        style={{
-          ...scale(1),
-          marginBottom: 0,
-          marginTop: 0,
-          fontFamily: `Montserrat, sans-serif`,
-        }}
-      >
-        <Link
+        <ul 
           style={{
-            boxShadow: `none`,
-            color: `inherit`,
-          }}
-          to={`/`}
-        >
-          {title}
-        </Link>
-      </h2>
+            listStyle: `none`,
+            marginLeft: 0
+          }}>
+            {sidebarMenu.map((item) => 
+              <li>
+                <Link
+                  style={{
+                    boxShadow: `none`,
+                    color: `inherit`,
+                  }}
+                  to={item.link}
+                >
+                  {item.title}
+                </Link>
+              </li>
+            )}
+        </ul>
     </>
   )
 

@@ -1,19 +1,20 @@
 module.exports = {
-  pathPrefix: "/leonids",
   siteMetadata: {
-    title: `Leonids`,
+    title: `Crticial Reflective Journal`,
     author: {
-      name: `@ry_zou`,
-      summary: `web dev`,
+      name: `Kristian Mikhel`,
+      summary: `UX Design MA @ Falmouth University`,
     },
-    description: `A simple, fixed sidebar two columns Gatsby.js blog starter.`,
-    siteUrl: `https://renyuanz.github.io/leonids`,
+    description: `My personal Critical Reflective Journal. Built on Gatsby.`,
+    siteUrl: `https://`,
     social: {
-      twitter: `ry_zou`,
-    },
-    defaultImage: "images/bg.jpeg",
+      twitter: `mihelchris`,
+      linkedin: `michelchris`,
+    }
   },
   plugins: [
+    `gatsby-plugin-no-index`,
+    `gatsby-plugin-catch-links`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -32,6 +33,12 @@ module.exports = {
       resolve: `gatsby-transformer-remark`,
       options: {
         plugins: [
+          {
+            resolve: 'gatsby-remark-obsidian',
+            options: {
+                titleToURL: (title) => `/${title}`,
+            },
+          },
           {
             resolve: `gatsby-remark-images`,
             options: {
@@ -62,13 +69,13 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Ryz`,
-        short_name: `Ryz`,
+        name: `Kristian Mikhel`,
+        short_name: `KM`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `content/assets/gatsby-icon.png`,
+        icon: `content/assets/icon.png`,
       },
     },
     `gatsby-plugin-react-helmet`,

@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "53003c7bd2790111",
+    "type": "split",
+    "children": [
+      {
+        "id": "3137c575fb7a6d85",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "blog/2021-09-19 On Reflective Writing.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8f44bc8adab66b47",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab285120e882297a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "28c51733226f8fa0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3cf63269d1dacc58",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "924c45c369ace915",
+    "type": "split",
+    "children": [
+      {
+        "id": "aab8ef9badb963d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01b717eccbd49fd6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "blog/2021-09-19 On Reflective Writing.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3137c575fb7a6d85",
+  "lastOpenFiles": [
+    "blog/2021-09-19 On Reflective Writing.md",
+    "blog/2021-09-20 Testing.md",
+    "blog/2021-09-20.md",
+    "_temp/_post.md",
+    "blog/2021-09-19 On Reflective Journalling.md",
+    "blog/2021-09-19.md",
+    "blog/2021-09-18 Test.md",
+    "blog/Colour Perception.md",
+    "blog/Attention Span.md",
+    "assets/gatsby-icon.png"
+  ]
+}

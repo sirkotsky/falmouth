@@ -1,19 +1,12 @@
 import React from "react"
+import Bio from "./bio"
 
-const Footer = () => {
+const Footer = ({author}) => {
   return (
     <footer className="my-12 text-center">
-      © {new Date().getFullYear()}, Built with
-      {` `}
-      <a href="https://www.gatsbyjs.org">Gatsby</a> and{" "}
-      <a
-        href="https://github.com/renyuanz/leonids"
-        target="_blank"
-        rel="noreferrer"
-      >
-        Leonids theme
-      </a>
-      .
+      <hr />
+      <Bio />
+      {new Date().getFullYear()}. Development in progress, pardon the mess.
     </footer>
   )
 }
