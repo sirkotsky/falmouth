@@ -10,6 +10,7 @@ tags:
 ---
 
 ![My avatar](./img/00-avatar.jpg)
+
 Our first creative assignment was to put together a self–portrait using objects of meaning found in the room or around us. 
 
 I got extremely excited after seeing the avatars of Morwenna and Richard. Not only were the avatars brilliantly composed, but the stories that accompanied them were deeply personal, demonstrated passion and enthusiasm.
