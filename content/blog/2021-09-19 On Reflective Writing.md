@@ -4,7 +4,7 @@ date: 2021-09-19
 author: kotsky
 description: On reflective writing and critical reflective journals as a practice
 image: 
-module: Module 1
+module: GDO710
 category: Research
 tags:
 ---
