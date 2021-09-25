@@ -5,7 +5,7 @@ author: kotsky
 description: The first creative brief of the module — create a self–portrait using objects in the room
 image: "./img/00-avatar.jpg"
 module: GDO710
-category: Research
+category: Development
 tags: 
 ---
 
