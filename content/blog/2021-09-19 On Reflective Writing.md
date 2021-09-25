@@ -23,6 +23,8 @@ Furthermore, I am not entirely sure that my style of writing is fitting. Perhaps
 
 ---
 
+#### References
+
 DYBÅ, Tore, Neil MAIDEN and Robert GLASS. 2014. ‘The Reflective Software Engineer: Reflective Practice’. IEEE Software 31(4), 32–6.
 
 BABB, Jeffry, Rashina HODA and Jacob NØRBJERG. 2014. ‘Embedding Reflection and Learning into Agile Software Development’. IEEE Software 31(4), 51–7.
