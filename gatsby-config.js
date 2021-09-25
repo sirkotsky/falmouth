@@ -6,7 +6,7 @@ module.exports = {
       summary: `UX Design MA @ Falmouth University`,
     },
     description: `My personal Critical Reflective Journal. Built on Gatsby.`,
-    siteUrl: `https://`,
+    siteUrl: `https://localhost:8000`,
     social: {
       twitter: `mihelchris`,
       linkedin: `michelchris`,
