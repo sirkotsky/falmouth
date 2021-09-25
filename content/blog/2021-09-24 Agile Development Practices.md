@@ -29,6 +29,8 @@ As for the personal "agility", I believe a step towards that could be ensuring t
 
 ---
 
+#### References
+
 ‘Principles behind the Agile Manifesto’. Accessed 18 September 2021. [https://agilemanifesto.org/principles.html](https://agilemanifesto.org/principles.html).
 
 BABB, Jeffry, Rashina HODA and Jacob NØRBJERG. 2014. ‘Embedding Reflection and Learning into Agile Software Development’. _IEEE Software_ 31(4), 51–7.
