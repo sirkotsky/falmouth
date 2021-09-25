@@ -6,7 +6,7 @@ module.exports = {
       summary: `UX Design MA @ Falmouth University`,
     },
     description: `My personal Critical Reflective Journal. Built on Gatsby.`,
-    siteUrl: `https://localhost:8000`,
+    siteUrl: `https://journal.kotsky.me`,
     social: {
       twitter: `mihelchris`,
       linkedin: `michelchris`,
@@ -37,6 +37,7 @@ module.exports = {
             resolve: 'gatsby-remark-obsidian',
             options: {
                 titleToURL: (title) => `/${title}`,
+                markdownFolder: `${__dirname}/content/blog`, // optional
             },
           },
           {
