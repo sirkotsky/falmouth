@@ -1,6 +1,6 @@
 import React, {useState}  from 'react';
 import Layout from "../components/layout"
-import SEO from "../components/seo"
+import Seo from "../components/seo"
 import PropTypes from "prop-types"
 import { rhythm } from "../utils/typography"
 import styled from "styled-components"
@@ -55,14 +55,14 @@ const ModulePage = ({ pageContext, data }) => {
 
   return (
     <Layout title={siteTitle}>
-      <SEO
+      <Seo
         title="Module entries" 
       />
       <h1>{moduleHeader}</h1>
       <Filter>
         <button onClick={() => filterCategory(false)} className={!state.category ? "active" : ""}> Show all</button>
         {group.map((item, i) => (
-          <button onClick={() => filterCategory(item.fieldValue)} className={item.fieldValue == state.category ? "active" : ""}>
+          <button onClick={() => filterCategory(item.fieldValue)} className={item.fieldValue === state.category ? "active" : ""}>
             {item.fieldValue}
           </button>
         ))}

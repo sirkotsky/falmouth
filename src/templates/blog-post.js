@@ -4,7 +4,7 @@ import styled from "styled-components"
 import { MDXRenderer } from "gatsby-plugin-mdx"
 
 import Layout from "../components/layout"
-import SEO from "../components/seo"
+import Seo from "../components/seo"
 import { rhythm, scale } from "../utils/typography"
 
 import _ from "lodash"
@@ -27,7 +27,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
 
   return (
     <Layout location={location} title="Home">
-      <SEO
+      <Seo
         title={post.frontmatter.title}
         description={post.frontmatter.description || post.excerpt}
       />
