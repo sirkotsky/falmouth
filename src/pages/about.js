@@ -3,7 +3,7 @@ import { graphql } from "gatsby"
 import styled from "styled-components"
 
 import Layout from "../components/layout"
-import SEO from "../components/seo"
+import Seo from "../components/seo"
 
 const Text = styled.p`
   line-height: 1.75
@@ -16,7 +16,7 @@ const AboutPage = ({ data, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      <SEO title="CRJ" />
+      <Seo title="CRJ" />
       <h1>About this journal</h1>
       <Text>
           My name is <strong>{author.name}</strong>, I am a UX Lead at Aleph Singapore and a Master's student at Falmouth University. 
