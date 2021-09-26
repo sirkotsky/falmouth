@@ -7,7 +7,7 @@ import SEO from "../components/seo"
 
 const AboutPage = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata.title
-  const modules = data.allMarkdownRemark.group
+  const modules = data.allMdx.group
 
   return (
     <Layout location={location} title={siteTitle}>
@@ -47,7 +47,7 @@ export const pageQuery = graphql`
         }
       }
     }
-    allMarkdownRemark {
+    allMdx {
         group(field: frontmatter___module) {
             fieldValue
         }
