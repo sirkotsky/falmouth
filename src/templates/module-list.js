@@ -35,7 +35,7 @@ const Filter = styled.div`
 
 const ModulePage = ({ pageContext, data }) => {
   const { module } = pageContext
-  const { edges, totalCount, group } = data.allMarkdownRemark
+  const { edges, totalCount, group } = data.allMdx
   const moduleHeader = `${totalCount} note${
     totalCount === 1 ? "" : "s"
   } in "${module}"`
@@ -107,7 +107,7 @@ module.propTypes = {
     module: PropTypes.string.isRequired,
   }),
   data: PropTypes.shape({
-    allMarkdownRemark: PropTypes.shape({
+    allMdx: PropTypes.shape({
       totalCount: PropTypes.number.isRequired,
       edges: PropTypes.arrayOf(
         PropTypes.shape({
@@ -134,7 +134,7 @@ export const pageQuery = graphql`
         title
       }
     }
-    allMarkdownRemark(
+    allMdx(
       limit: 2000
       sort: { fields: [frontmatter___date], order: DESC }
       filter: { frontmatter: { module: { in: [$module] } } }

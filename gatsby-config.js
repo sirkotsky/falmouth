@@ -30,14 +30,14 @@ module.exports = {
       },
     },
     {
-      resolve: `gatsby-transformer-remark`,
+      resolve: `gatsby-plugin-mdx`,
       options: {
-        plugins: [
+        extensions: [`.md`, `.mdx`],
+        gatsbyRemarkPlugins: [
           {
             resolve: 'gatsby-remark-obsidian',
             options: {
-                titleToURL: (title) => `/${title}`,
-                markdownFolder: `${__dirname}/content/blog`, // optional
+                titleToURL: (title) => `/${title}`
             },
           },
           {
