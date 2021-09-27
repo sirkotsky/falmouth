@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog/2021-09-24 Agile Development Practices.md",
+                "file": "blog/2021-09-20 Avatar Through Objects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,17 +88,15 @@
   },
   "active": "3137c575fb7a6d85",
   "lastOpenFiles": [
+    "blog/2021-09-20 Avatar Through Objects.md",
     "blog/2021-09-24 Agile Development Practices.md",
     "blog/2021-09-19 On Reflective Writing.md",
-    "blog/2021-09-20 Avatar Through Objects.md",
     "blog/2021-09-19 On Reflective Writing.md",
     "blog/2021-09-24 Agile Development Practices.md",
     "blog/2021-09-24 On Agile Practices.md",
     "blog/2021-09-24.md",
     "blog/img/00-avatar.jpg",
     "blog/2021-09-20.md",
-    "blog/2021-09-20 Testing.md",
-    "_temp/_post.md",
-    "blog/2021-09-19 On Reflective Journalling.md"
+    "blog/2021-09-20 Testing.md"
   ]
 }
