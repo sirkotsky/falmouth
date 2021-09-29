@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "blog/2021-09-28 Remediation Challenge.md",
+            "file": "blog/2021-09-29 Channelling Creativity.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog/2021-09-28 Remediation Challenge.md",
+                "file": "blog/2021-09-29 Channelling Creativity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,14 +88,15 @@
   },
   "active": "3137c575fb7a6d85",
   "lastOpenFiles": [
-    "blog/2021-09-28 Remediation Challenge.md",
-    "blog/2021-09-20 Avatar Through Objects.md",
+    "blog/2021-09-29 Channelling Creativity.md",
     "blog/2021-09-27 Computational Creativity.md",
+    "blog/2021-09-28 Remediation Challenge.md",
+    "blog/2021-09-29.md",
+    "blog/2021-09-20 Avatar Through Objects.md",
     "blog/2021-09-19 On Reflective Writing.md",
     "blog/2021-09-24 Agile Development Practices.md",
     "blog/2021-09-28.md",
     "blog/2021-09-24 On Agile Practices.md",
-    "blog/2021-09-24.md",
-    "blog/img/00-avatar.jpg"
+    "blog/2021-09-24.md"
   ]
 }
