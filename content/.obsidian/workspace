@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "blog/2021-10-14 On Managers and Producers.md",
+            "file": "blog/2021-10-15 Rapid Ideation Session Kick Off.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog/2021-10-14 On Managers and Producers.md",
+                "file": "blog/2021-10-15 Rapid Ideation Session Kick Off.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,15 +96,15 @@
   },
   "active": "3137c575fb7a6d85",
   "lastOpenFiles": [
-    "blog/2021-10-14.md",
+    "blog/2021-10-15 Rapid Ideation Session Kick Off.md",
     "blog/2021-10-14 On Managers and Producers.md",
+    "blog/2021-10-15.md",
+    "blog/2021-10-14.md",
     "blog/2021-10-04 On Rapid Ideation.md",
     "blog/2021-10-06 Prototyping Challenge.md",
     "blog/2021-10-06.md",
     "blog/2021-09-29 Channelling Creativity.md",
     "blog/2021-09-28 Remediation Challenge.md",
-    "blog/2021-09-27 Computational Creativity.md",
-    "blog/2021-09-20 Avatar Through Objects.md",
-    "blog/2021-09-19 On Reflective Writing.md"
+    "blog/2021-09-27 Computational Creativity.md"
   ]
 }
