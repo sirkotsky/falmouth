@@ -13,7 +13,7 @@ One of the past week's topics — Agile Development Practices — turned out to 
 
 Interestingly, agile delivery is empowered by [[2021-09-19 On Reflective Writing|reflective practices]]: as Babb, Hoda, and Nørbjerg put it in "Embedding Reflection and Learning into Agile Software Development", daily habits of sharing knowledge with peers, exchange ideas, and learn from one another help the squads use agile rituals — such as daily stand-ups and biweekly retros — to reflect on their progress (Baab, Hoda, Nørbjerg 2014).
 
-A wide variety of Agile frameworks, some of which a rarely ever heard of these days (i.e. Extreme Programming), present a rich choice to pick from, depending on the project's needs and team's maturity. What poses a challenge, however, is how agile methodologies embrace proximity and promote close, physical collaboration, ideally — in an enclosed environment with a whiteboard. 
+A wide variety of Agile frameworks, some of which I rarely ever hear of these days (i.e. Extreme Programming), present a rich choice to pick from, depending on the project's needs and team's maturity. What poses a challenge, however, is how agile methodologies embrace proximity and promote close, physical collaboration, ideally — in an enclosed environment with a whiteboard. 
 
 In his book, "Agile Foundations", Masey goes as far as using Hofstede's cultural dimensions theory (Hofstede 2010) — a framework for cross–cultural communication — to justify the need for a physical contact as a mean of avoiding misinterpretations and "building the environment of trust", which is "more likely to foster cultural understanding" (Masey 2015). 
 
