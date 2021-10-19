@@ -6,6 +6,8 @@ description: How I approached recreating a piece of art using creativity chanell
 image: 
 module: GDO710
 category: Development
+domains: Cognitive
+week: 2
 tags: 
 ---
 

@@ -60,6 +60,14 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
                 <b>Published: </b>
                 {post.frontmatter.date}
               </li>
+              <li key="date">
+                <b>Week: </b>
+                {post.frontmatter.week}
+              </li>
+              <li key="date">
+                <b>Domains: </b>
+                {post.frontmatter.domains}
+              </li>
             </ul>
           </PostDetails>
         </header>
@@ -120,6 +128,8 @@ export const pageQuery = graphql`
         description
         module
         category
+        week
+        domains
       }
     }
   }

@@ -6,6 +6,8 @@ description: Learning of various agile development practices and how to apply th
 image: 
 module: GDO710
 category: Research
+domains: Dispositional, Interpersonal, Procedural
+week: 2
 tags: 
 ---
 

@@ -6,7 +6,9 @@ description: On reflective writing and critical reflective journals as a practic
 image: 
 module: GDO710
 category: Research
-tags:
+domains: Dispositional, Affective, Procedural
+week: 1
+tags: 
 ---
 
 Critical perspective is an essential aspect of a professional progression, growth, and development. At [Aleph](https://aleph-labs.com), the practice of sending reflective journals is adopted to stimulate the team member to think critically, evaluate their workload and well–being, their team's dynamics, as well as their ability to identify and overcome obstacles. Unfortunately, many people still perceive reflective journals as a mandatory policy that they are forced into, rather than a powerful tool, allowing them to critically assess their work and learning.

@@ -6,6 +6,8 @@ description: This week, I researched the ICEDIP and SCAMPER methods of enhancing
 image: 
 module: GDO710
 category: Research
+week: 3
+domains: Dispositional
 tags: 
 ---
 This week, I researched the ICEDIP and SCAMPER methods of enhancing and channelling creativity. 

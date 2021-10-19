@@ -6,6 +6,8 @@ description: What it means to be creative, and can machines really be creative?
 image: 
 module: GDO710
 category: Research
+domains: Affective, Procedural
+week: 2
 tags: 
 ---
 

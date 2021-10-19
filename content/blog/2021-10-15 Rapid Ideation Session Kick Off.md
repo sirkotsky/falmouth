@@ -7,6 +7,7 @@ image:
 module: GDO710
 category: Development
 week: 4
+domains: Cognitive
 tags: 
 ---
 A few days ago at the webinar, we received this week's prompt: a surrealist Dixit card and a random news article. 

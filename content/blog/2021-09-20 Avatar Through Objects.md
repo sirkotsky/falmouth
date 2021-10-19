@@ -6,6 +6,8 @@ description: The first creative brief of the module — create a self–portrait
 image: "./img/00-avatar.jpg"
 module: GDO710
 category: Development
+domains: Cognitive
+week: 1
 tags: 
 ---
 

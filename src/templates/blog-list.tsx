@@ -24,6 +24,7 @@ type Data = {
           date: string
           description: string
           module: string
+          week: string
         }
         fields: {
           slug: string
@@ -64,7 +65,7 @@ const BlogIndex = ({
                   {title}
                 </Link>
               </h3>
-              <small>{node.frontmatter.date} | {node.frontmatter.module}</small>
+              <small>{node.frontmatter.date} | {node.frontmatter.module} | Week {node.frontmatter.week}</small>
             </header>
             <section>
               <p
@@ -132,6 +133,7 @@ export const pageQuery = graphql`
             date(formatString: "MMMM DD, YYYY")
             description
             module
+            week
           }
         }
       }

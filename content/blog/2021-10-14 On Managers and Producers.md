@@ -7,6 +7,7 @@ image:
 module: GDO710
 category: Research
 week: 4
+domains: Dispositional, Interpersonal, Procedural
 tags: 
 ---
 The role of the project manager in the design team is usually clear. In the traditional development, the PM handles the communication with the client, owns the project plan, controls and commands the team to accomplish tasks — in a nutshell, project management "balances the issues of both technology and organization, to gain the maximum out of the development". (Uikey, Suman 2012). 

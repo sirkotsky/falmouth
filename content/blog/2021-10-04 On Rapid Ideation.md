@@ -6,6 +6,8 @@ description: Learning of various rapid ideation and prototyping methods
 image: 
 module: GDO710
 category: Research
+week: 3
+domains: Procedural
 tags: 
 ---
 Learning of various prototyping techniques and methods was an interesting endeavour: despite being experienced in rapid ideation and having participated in many jams and brainstorming activities, I had uncovered a few methods I had never applied before. 

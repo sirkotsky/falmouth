@@ -7,11 +7,8 @@
         "id": "3137c575fb7a6d85",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "blog/2021-10-18 Analysing the Journal.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       },
       {
@@ -76,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog/2021-10-18 Analysing the Journal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,6 +92,7 @@
   },
   "active": "3137c575fb7a6d85",
   "lastOpenFiles": [
+    "blog/2021-10-19.md",
     "blog/2021-10-18 Analysing the Journal.md",
     "blog/2021-09-29 Channelling Creativity.md",
     "blog/2021-09-28 Remediation Challenge.md",
@@ -104,7 +101,6 @@
     "blog/2021-09-27 Computational Creativity.md",
     "blog/2021-10-04 On Rapid Ideation.md",
     "blog/2021-09-19 On Reflective Writing.md",
-    "blog/2021-09-24 Agile Development Practices.md",
-    "blog/2021-10-18 Analysing the CRJ.md"
+    "blog/2021-09-24 Agile Development Practices.md"
   ]
 }
