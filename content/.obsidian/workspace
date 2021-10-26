@@ -1,22 +1,28 @@
 {
   "main": {
-    "id": "53003c7bd2790111",
+    "id": "0c5a1f4e7f6c862e",
     "type": "split",
     "children": [
       {
-        "id": "3137c575fb7a6d85",
+        "id": "170f175b2e24a1a2",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "blog/2021-10-24 Rapid Ideation Project — Flying Taxis.md",
+            "mode": "source"
+          }
         }
       },
       {
-        "id": "9e441ba2c3ef922f",
+        "id": "8b6cd995fdd68dbb",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "blog/2021-10-24 Rapid Ideation Project — Flying Taxis.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -73,6 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "blog/2021-10-24 Rapid Ideation Project — Flying Taxis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,17 +97,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3137c575fb7a6d85",
+  "active": "170f175b2e24a1a2",
   "lastOpenFiles": [
+    "blog/2021-10-24 Rapid Ideation Project — Flying Taxis.md",
+    "blog/img/05-setup.jpg",
+    "blog/img/05-planning.jpg",
+    "blog/img/04-ideation.jpg",
+    "blog/2021-09-19 On Reflective Writing.md",
+    "blog/2021-10-15 Rapid Ideation Session Kick Off.md",
+    "blog/2021-10-14 On Managers and Producers.md",
     "blog/2021-10-19.md",
     "blog/2021-10-18 Analysing the Journal.md",
-    "blog/2021-09-29 Channelling Creativity.md",
-    "blog/2021-09-28 Remediation Challenge.md",
-    "blog/2021-10-14 On Managers and Producers.md",
-    "blog/2021-10-15 Rapid Ideation Session Kick Off.md",
-    "blog/2021-09-27 Computational Creativity.md",
-    "blog/2021-10-04 On Rapid Ideation.md",
-    "blog/2021-09-19 On Reflective Writing.md",
-    "blog/2021-09-24 Agile Development Practices.md"
+    "blog/2021-09-29 Channelling Creativity.md"
   ]
 }
