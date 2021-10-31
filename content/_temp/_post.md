@@ -4,12 +4,15 @@ date: {{date:YYYY-MM-DD}}
 author: kotsky
 description: 
 image: 
-module: 
-category:
+module: GDO710
+category: Development
+week: 
+domains: Dispositional, Affective, Interpersonal, Cognitive, Procedural
 tags: 
 ---
-## Executive Summary
-## Actions
-## Challenges
-## Learnings
-## Gratitude
+
+
+
+---
+
+#### References
