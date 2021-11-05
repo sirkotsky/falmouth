@@ -6,7 +6,7 @@ description: Reflecting on what went well (and what not so much) during the firs
 image: 
 module: GDO710
 category: Development
-week: 7
+week: 6
 domains: Dispositional, Affective, Interpersonal, Cognitive, Procedural
 tags: 
 ---
