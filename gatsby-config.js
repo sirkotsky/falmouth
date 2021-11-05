@@ -9,7 +9,7 @@ module.exports = {
     siteUrl: `https://journal.kotsky.me`,
     social: {
       twitter: `mihelchris`,
-      linkedin: `michelchris`,
+      linkedin: `kotsky`,
     }
   },
   plugins: [
