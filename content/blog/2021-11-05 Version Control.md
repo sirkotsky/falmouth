@@ -30,7 +30,8 @@ Despite some complications, I managed to discover alternatives for the majority 
 - [Penpot](https://penpot.app/) instead of Figma for design and prototyping;
 - [Kanboard](https://kanboard.org/) instead of Trello for planning;
 - [Excalidraw](https://excalidraw.com/) instead of Miro for whiteboarding activities;
-- [Diagrams](https://app.diagrams.net) for mind mapping.
+- [Diagrams](https://app.diagrams.net) for mind mapping;
+- [Raindrop](raindrop.io) instead of Pinterest for collections and moodboards.
 
 ### Ideation
 
@@ -61,6 +62,25 @@ At this point, I have outlined the key topics, and my artifact's core idea looke
 - The character will progress and face tougher decisions — from managing a small office to running the country;
 - The game will use simple mechanics to show how simple actions can make great change — much like "Papers, Please" or "Monopoly", with the complications growing as the player progresses.
 
+## Research and moodboards
+
+In short forum discussion, Lauran mentioned Fritz Lang's classics "Metropolis" as a great example of the appropriate setting for the game, being a story of the technological society expanding at the expense of the forests and natural areas (Lang 1927). Once again, great reminder of how SMART goals, especially those in the interpersonal domain, help not only establish connection, but also learn of new things and find creative directions.
+
+It inspired me to look into German Expressionism and the classical dystopias for the inspiration, as well as to start collecting artworks in the Art Deco style — the style that stems from the "desire to move into the new century in step with innovation", whose very aesthetic "emphasized machine-age streamlining and sleek geometry" (The Art Story 2021). 
+
+![Art Deco Moodboard](./img/07-artdeco.jpg)
+
+I also decided to look into dystopian board games to better understand the mechanics, as well to gather enough material to remediate into my prototype. 
+
+![Board Games](./img/07-board.jpg)
+
+As I was exploring the unfamiliar world of dystopian board games, I made a few notes to help me establish a firm foundations for the game:
+
+- The game should be non–linear and feature "free will" — the player should decide whether they want to destroy or save the planet;
+- It should offer a creal objective for the chosen path;
+- It should feature various characters, situations, and complications to make the journey personal and exciting;
+- Co–op game is a great way of teaching the importance of collaboration and working together towards achieving a big goal.
+
 ---
 
 #### References
@@ -68,3 +88,7 @@ At this point, I have outlined the key topics, and my artifact's core idea looke
 ‘Design Management | GitLab’. 2021. [online]. Available at: https://docs.gitlab.com/ee/user/project/issues/design_management.html [accessed 5 Nov 2021].
 
 Board of Innovation. ‘Opposite Thinking’. Available at: https://www.boardofinnovation.com/tools/opposite-thinking [accessed 22/12/2020].
+
+LANG, Fritz, Brigitte HELM, Alfred ABEL and Gustav FRÖHLICH. 1927. Metropolis [Film]. Universum Film (UFA).
+
+‘Art Deco - Concepts & Styles’. 2021. The Art Story [online]. Available at: https://www.theartstory.org/movement/art-deco/history-and-concepts/ [accessed 6 Nov 2021].
