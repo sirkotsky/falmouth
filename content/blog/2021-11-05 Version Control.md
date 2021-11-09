@@ -81,6 +81,21 @@ As I was exploring the unfamiliar world of dystopian board games, I made a few n
 - It should feature various characters, situations, and complications to make the journey personal and exciting;
 - Co–op game is a great way of teaching the importance of collaboration and working together towards achieving a big goal.
 
+### Early Discovery
+
+I started mapping out the game mechanics using the open-source technology — a piece of paper, a pen, and the Penpot app. I decided on a simple mechanics that would later make it into the final board game.
+
+![Game Mechanics](./img/07-mechanics.png)
+
+- *The characters*: the player will start with picking their character from the stack. The card will define the characteristics of their avatar;
+- *The map*: the board will feature a set of hexagonal spaces comprising the Planet. The game will begin with one hexagon at the player's disposal, as the game progresses, the player occupies more space and chooses how to develop it  — whether to expand their city, or to preserve the nature;
+- *The parameters* — the player will have to manage their city's Health, Wealth, Temperature, and Happiness in balance;
+- *The project cards* — the player will be responsible for the implementation of the city development projects. It will be the player's choice whether to invest in the industry, or to choose more sustainable sources and preserve the nature. The industry will bring more profit, but would diminish the health and increase the temperature. Sustainable projects would demand more investment, and won't pay off for a long time. The key challenge of the game would be to preserve the balance and the harmony;
+- *The danger cards* — occasionally, the player would have to face the dangers of the world — a natural disaster, for instance. Big corporations may threaten their wellbeing. Eco-activists will boycott their factories. 
+
+The goal of the game would be to expand the city limits while sustaining a good balance between green and traditional economy. The game can be played in groups — if more than one person is playing the game, their goal would be to develop a more prosperous, well-balanced city.
+
+
 ---
 
 #### References
