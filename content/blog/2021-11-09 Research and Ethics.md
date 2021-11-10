@@ -39,6 +39,10 @@ Researching the Facebook's highly unethical “violation of the rights of resear
 
 I always start by making sure the participant is aware of the context of the study, the goals, and the requirements. I set the timeframe and make sure to include the passage about the data privacy — how the information they are about to share will not be openly available to anyone outside the design team, especially if the recording (with the subject's permission) takes place. Here, however, I have to point myself to the fact that often during the interviews, I make sure the participant is aware that the session is being recorder, but don't ask for explicit consent — I should make sure to include asking for a permission: "Are you comfortable with the session being recorded?" vs "For your information, the session is being recorded". 
 
+Watching the video by Alcwyn Parker made me recall the studies I had previously conducted, alone or with the team. For one of the report, we concealed the identities of the participants and used emojis to represent their personas: this way, the report could circulate openly without the fear of any participant's private information being revealed.
+
+![Report](./img/08-ethics.jpg)
+
 ---
 
 #### References
