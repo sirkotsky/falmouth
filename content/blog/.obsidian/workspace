@@ -1,0 +1,110 @@
+{
+  "main": {
+    "id": "254cabe4c8bc3192",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7c06377c9764a4a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2021-11-15 Communities of Practice.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "6c8da4632a5bdae7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2021-11-15 Communities of Practice.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5470f6a2e093fa6c",
+    "type": "split",
+    "children": [
+      {
+        "id": "0fcca44f545228a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10f4da8695d80b91",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "19c8e20b2e99f918",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 241
+  },
+  "right": {
+    "id": "00849ed69b367fbf",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa6808c20c4daadb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9e97e5862153f74",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2021-11-15 Communities of Practice.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e7c06377c9764a4a",
+  "lastOpenFiles": [
+    "2021-11-15 Communities of Practice.md",
+    "2021-11-14 Rapid Ideation Project — Game for Humanity.md",
+    "_temp/_entry.md",
+    "_temp/Untitled.md",
+    "2021-11-05 Version Control.md",
+    "img/08-sheet.jpg",
+    "2021-11-09 Research and Ethics.md"
+  ]
+}

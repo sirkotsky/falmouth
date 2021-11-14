@@ -11,8 +11,6 @@ domains: Dispositional, Interpersonal
 tags: 
 ---
 
-> This entry is being actively updated
-
 ## Version Control
 
 Following this week's assignment, I set up a [GitHub Repository](https://github.com/sirkotsky/GDO710-RI), although there seems to be very little potential of using Git for any design outputs, unless I will be willing to use GitLab's [design management](https://docs.gitlab.com/ee/user/project/issues/design_management.html). It is promised to provide exceptional functionality for storing wireframes and other design outputs (GitLab 2021), so I shall give it a try in the future. 
@@ -31,7 +29,8 @@ Despite some complications, I managed to discover alternatives for the majority 
 - [Kanboard](https://kanboard.org/) instead of Trello for planning;
 - [Excalidraw](https://excalidraw.com/) instead of Miro for whiteboarding activities;
 - [Diagrams](https://app.diagrams.net) for mind mapping;
-- [Raindrop](raindrop.io) instead of Pinterest for collections and moodboards.
+- [Raindrop](raindrop.io) instead of Pinterest for collections and moodboards;
+- [LibreOffice](https://www.libreoffice.org) to build game mechanics.
 
 ### Ideation
 
