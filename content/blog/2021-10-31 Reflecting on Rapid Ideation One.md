@@ -1,6 +1,6 @@
 ---
 title: Reflecting on Rapid Ideation One
-date: 2021-10-31
+published: 2021-10-31
 author: kotsky
 description: Reflecting on what went well (and what not so much) during the first sprint
 image: 

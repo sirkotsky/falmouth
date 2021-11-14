@@ -1,6 +1,6 @@
 ---
 title: Rapid Ideation Project — Game for Humanity
-date: 2021-11-14
+published: 2021-11-14
 author: kotsky
 description: A board game concept designed to help increase the environmental awareness
 image: 

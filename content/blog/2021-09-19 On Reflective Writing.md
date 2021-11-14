@@ -1,6 +1,6 @@
 ---
 title: On Reflective Writing
-date: 2021-09-19
+published: 2021-09-19
 author: kotsky
 description: On reflective writing and critical reflective journals as a practice
 image: 

@@ -1,6 +1,6 @@
 ---
 title: Computational Creativity
-date: 2021-09-27
+published: 2021-09-27
 author: kotsky
 description: What it means to be creative, and can machines really be creative?
 image: 

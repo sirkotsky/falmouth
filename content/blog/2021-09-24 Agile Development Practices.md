@@ -1,6 +1,6 @@
 ---
 title: Agile Development Practices
-date: 2021-09-24
+published: 2021-09-24
 author: kotsky
 description: Learning of various agile development practices and how to apply them
 image: 

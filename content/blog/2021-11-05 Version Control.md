@@ -1,6 +1,6 @@
 ---
 title: Version Control and New Rapid Ideation
-date: 2021-11-05
+published: 2021-11-05
 author: kotsky
 description: Setting up the github repo and kicking off the second rapid ideation session
 image: 

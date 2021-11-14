@@ -21,7 +21,7 @@ type Data = {
         excerpt: string
         frontmatter: {
           title: string
-          date: string
+          published: string
           description: string
           module: string
           week: string
@@ -65,7 +65,7 @@ const BlogIndex = ({
                   {title}
                 </Link>
               </h3>
-              <small>{node.frontmatter.date} | {node.frontmatter.module} | Week {node.frontmatter.week}</small>
+              <small>{node.frontmatter.published} | {node.frontmatter.module} | Week {node.frontmatter.week}</small>
             </header>
             <section>
               <p
@@ -118,7 +118,7 @@ export const pageQuery = graphql`
       }
     }
     allMdx(
-      sort: { fields: [frontmatter___date], order: DESC }
+      sort: { fields: [frontmatter___published], order: DESC }
       limit: $limit
       skip: $skip
     ) {
@@ -130,7 +130,7 @@ export const pageQuery = graphql`
           }
           frontmatter {
             title
-            date(formatString: "MMMM DD, YYYY")
+            published(formatString: "MMMM DD, YYYY")
             description
             module
             week

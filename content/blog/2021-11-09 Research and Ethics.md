@@ -1,6 +1,6 @@
 ---
 title: Research and Ethics
-date: 2021-11-09
+published: 2021-11-09
 author: kotsky
 description: Understanding the importance of ethics in research
 image: 

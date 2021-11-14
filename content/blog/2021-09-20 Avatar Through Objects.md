@@ -1,6 +1,6 @@
 ---
 title: Avatar Through Objects
-date: 2021-09-20
+published: 2021-09-20
 author: kotsky
 description: The first creative brief of the module — create a self–portrait using objects in the room
 image: "./img/00-avatar.jpg"

@@ -70,7 +70,7 @@ const ModulePage = ({ pageContext, data }) => {
       <ul>
         {edges.map(({ node }) => {
           const { slug } = node.fields
-          const { title, date, description, category } = node.frontmatter
+          const { title, published, description, category } = node.frontmatter
           if(state.category && state.category !== category) return false
         
           else return (
@@ -85,7 +85,7 @@ const ModulePage = ({ pageContext, data }) => {
                     {title}
                   </Link>
                 </h3>
-                <small>{date}</small>
+                <small>{published}</small>
               </header>
               <section>
                 <p
@@ -136,7 +136,7 @@ export const pageQuery = graphql`
     }
     allMdx(
       limit: 2000
-      sort: { fields: [frontmatter___date], order: DESC }
+      sort: { fields: [frontmatter___published], order: DESC }
       filter: { frontmatter: { module: { in: [$module] } } }
     ) {
       totalCount
@@ -147,7 +147,7 @@ export const pageQuery = graphql`
           }
           frontmatter {
             title
-            date(formatString: "MMMM DD, YYYY")
+            published(formatString: "MMMM DD, YYYY")
             description
             category
           }

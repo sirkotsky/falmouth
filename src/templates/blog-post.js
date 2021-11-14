@@ -56,15 +56,15 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
                 <b>Category: </b>
                 {post.frontmatter.category}
               </li>
-              <li key="date">
+              <li key="published">
                 <b>Published: </b>
-                {post.frontmatter.date}
+                {post.frontmatter.published}
               </li>
-              <li key="date">
+              <li key="week">
                 <b>Week: </b>
                 {post.frontmatter.week}
               </li>
-              <li key="date">
+              <li key="domains">
                 <b>Domains: </b>
                 {post.frontmatter.domains}
               </li>
@@ -124,7 +124,7 @@ export const pageQuery = graphql`
       body
       frontmatter {
         title
-        date(formatString: "MMMM DD, YYYY")
+        published(formatString: "MMMM DD, YYYY")
         description
         module
         category

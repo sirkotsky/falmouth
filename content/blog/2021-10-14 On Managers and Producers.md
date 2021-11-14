@@ -1,6 +1,6 @@
 ---
 title: On Managers and Producers
-date: 2021-10-14
+published: 2021-10-14
 author: kotsky
 description: How I learnt the difference between Design Producers and Project Managers
 image: 

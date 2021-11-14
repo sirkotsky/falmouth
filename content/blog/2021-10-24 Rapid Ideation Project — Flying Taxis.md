@@ -1,6 +1,6 @@
 ---
 title: Rapid Ideation Project — Dragon Fly
-date: 2021-10-24
+published: 2021-10-24
 author: kotsky
 description: Flying Taxis hailing app — a case study
 image: 

@@ -1,6 +1,6 @@
 ---
 title: On Rapid Ideation
-date: 2021-10-04
+published: 2021-10-04
 author: kotsky
 description: Learning of various rapid ideation and prototyping methods
 image: 

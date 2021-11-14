@@ -1,6 +1,6 @@
 ---
 title: Communities of Practice
-date: 2021-11-14
+published: 2021-11-15
 author: kotsky
 description: Reflecting on participating in design communities
 image: 

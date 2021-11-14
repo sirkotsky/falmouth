@@ -1,6 +1,6 @@
 ---
 title: Remediation Challenge
-date: 2021-09-28
+published: 2021-09-28
 author: kotsky
 description: How I approached recreating a piece of art using creativity chanelling techniques
 image: 

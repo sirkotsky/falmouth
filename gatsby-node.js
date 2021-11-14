@@ -12,7 +12,7 @@ exports.createPages = async ({ graphql, actions }) => {
     `
       {
         allMdx(
-          sort: { fields: [frontmatter___date], order: DESC }
+          sort: { fields: [frontmatter___published], order: DESC }
           limit: 1000
         ) {
           edges {
@@ -23,6 +23,7 @@ exports.createPages = async ({ graphql, actions }) => {
               frontmatter {
                 title
                 module
+                published
               }
             }
           }

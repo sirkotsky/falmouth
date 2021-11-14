@@ -1,6 +1,6 @@
 ---
 title: Rapid Ideation Session Kick Off
-date: 2021-10-15
+published: 2021-10-15
 author: kotsky
 description: Brainstorming the creative idea
 image: 

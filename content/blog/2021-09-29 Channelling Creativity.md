@@ -1,6 +1,6 @@
 ---
 title: Channelling Creativity
-date: 2021-09-29
+published: 2021-09-29
 author: kotsky
 description: This week, I researched the ICEDIP and SCAMPER methods of enhancing and channelling creativity. 
 image: 
