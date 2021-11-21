@@ -5,18 +5,19 @@ import { MDXRenderer } from "gatsby-plugin-mdx"
 
 import Layout from "../components/layout"
 import Seo from "../components/seo"
-import { rhythm, scale } from "../utils/typography"
-
+import { rhythm } from "../utils/typography"
 import _ from "lodash"
 
-const PostDetails = styled.div`
-  margin: ${rhythm(1)} 0;
-  padding: 24px;
-  background: var(--lightBg);
+import { PostMeta } from "../components/meta"
 
+const PostDetails = styled.div`
   & ul {
     list-style: none;
     margin: 0;
+
+    & li {
+      display: inline-block;
+    }
   }
 `
 
@@ -33,43 +34,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
       />
       <article>
         <header>
-          <h1
-            style={{
-              marginBottom: 0,
-            }}
-          >
-            {post.frontmatter.title}
-          </h1>
-          <PostDetails
-            style={{
-              ...scale(-1 / 5),
-              display: `block`,
-              marginBottom: rhythm(1),
-            }}
-          >
-            <ul>
-              <li key="module">
-                <b>Module: </b> 
-                <Link to={'/module/'+_.kebabCase(post.frontmatter.module)}>{post.frontmatter.module}</Link>
-              </li>
-              <li key="category">
-                <b>Category: </b>
-                {post.frontmatter.category}
-              </li>
-              <li key="published">
-                <b>Published: </b>
-                {post.frontmatter.published}
-              </li>
-              <li key="week">
-                <b>Week: </b>
-                {post.frontmatter.week}
-              </li>
-              <li key="domains">
-                <b>Domains: </b>
-                {post.frontmatter.domains}
-              </li>
-            </ul>
-          </PostDetails>
+          <PostMeta title={post.frontmatter.title} published={post.frontmatter.published} week={post.frontmatter.week} module={post.frontmatter.module} domains={post.frontmatter.domains} category={post.frontmatter.category} />
         </header>
         <MDXRenderer>{post.body}</MDXRenderer>
         <hr

@@ -5,6 +5,8 @@ import PropTypes from "prop-types"
 import { rhythm } from "../utils/typography"
 import styled from "styled-components"
 
+import SinglePost from '../components/post';
+
 // Components
 import { Link, graphql } from "gatsby"
 
@@ -74,27 +76,7 @@ const ModulePage = ({ pageContext, data }) => {
           if(state.category && state.category !== category) return false
         
           else return (
-            <article key={slug} category={category}>
-              <header>
-                <h3
-                  style={{
-                    marginBottom: rhythm(1 / 4),
-                  }}
-                >
-                  <Link style={{ boxShadow: `none` }} to={slug}>
-                    {title}
-                  </Link>
-                </h3>
-                <small>{published}</small>
-              </header>
-              <section>
-                <p
-                  dangerouslySetInnerHTML={{
-                    __html: description
-                  }}
-                />
-              </section>
-            </article>
+            <SinglePost module={module} slug={slug} published={published} title={title} content={description} />
           )
         })}
       </ul>

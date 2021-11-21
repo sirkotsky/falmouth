@@ -3,7 +3,7 @@ import React from "react"
 import { PageProps, Link, graphql } from "gatsby"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-import { rhythm } from "../utils/typography"
+import SinglePost from "../components/post"
 
 type PageContext = {
   currentPage: number
@@ -53,28 +53,9 @@ const BlogIndex = ({
       <SEO title="All posts" />
       {posts.map(({ node }) => {
         const title = node.frontmatter.title || node.fields.slug
+        const html = node.frontmatter.description || node.excerpt
         return (
-          <article key={node.fields.slug}>
-            <header>
-              <h3
-                style={{
-                  marginBottom: rhythm(1 / 4),
-                }}
-              >
-                <Link style={{ boxShadow: `none` }} to={node.fields.slug}>
-                  {title}
-                </Link>
-              </h3>
-              <small>{node.frontmatter.published} | {node.frontmatter.module} | Week {node.frontmatter.week}</small>
-            </header>
-            <section>
-              <p
-                dangerouslySetInnerHTML={{
-                  __html: node.frontmatter.description || node.excerpt,
-                }}
-              />
-            </section>
-          </article>
+          <SinglePost slug={node.fields.slug} title={title} published={node.frontmatter.published} module={node.frontmatter.module} week={node.frontmatter.week} content={html} />
         )
       })}
 
