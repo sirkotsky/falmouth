@@ -11,6 +11,24 @@ domains: Interpersonal
 tags: 
 ---
 
+## What makes a community?
+
+According to Wenger (1998), professional comminuties and communities of practice comprise
+>people who share a concern or a passion for something they do and learn how to do it better as they interact regularly.
+
+Essentially, a group of people united by passion and interest for something could be considered a community, if while performing their activities, the members of the group would prioritise learning and exchanging knowledge. 
+
+Lave and Wenger (1991) emphasise the importance of
+> shifting the analytic focus from the individual as learner to learning as participation in the  social world.
+
+Does that mean that consuming books, polishing hard skills, and becoming great at a certain craft means nothing if the learning process is not situated within the community? Can one assume that the lack of exchange of knowledge, connection, and sharing would mean learning in vain?
+
+Throughout my design practice, I've been rather shy to share my projects (and only did so when forced to), and rarely thought of participating in the community of any kind as of a mean of growing as a practitioner. 
+
+Learning of various communities, growing as a designer and as a person, and challenging my previous assumptions how professional communities work, I come to an understanding that only while being part of a group of practitioners sharing similar goals, can one learn how to apply knowledge effectively and overcome challenges. As Lave and Wenger (1991) put it, ‘learning is inherently a social process’: hence, the social interactions during the learning process are as vital as the learning itself.
+
+---
+
 ## Personal Experience
 
 I have rarely been active in the design communities (ever), despite possessing some experience in the field and working on many exciting projects across all ASEAN region and beyond. 
@@ -70,3 +88,14 @@ The group organizes big talks and webinars every month, often inviting great spe
 The online community, organized in Discord, comprises several sections: events, where the announcements are posted, recommendations, where people share their favourite design books, links, and practices, and a few more. There is a space for those who are new to UX — a place where they freely ask questions and get answers from experienced peers; a job board bulletin; a wins-and-fails chat, quite self-descriptive; and some other small rooms where people discuss anything — from design management to career building. FoF encourages its members to stay active and feel free to share their thoughts and ask questions — once a week, they share a form and consolidate the questions, and later post the most popular in a separate channel: a fun little activity where different people find different answers to the same question.
 
 As for the rules, the community employs zero tolerance policy for discrimination, NSFW content, and spamming/trolling. Self-promotion and job posting are limited to respective channels. Other than that, the main rule of the game is to have fun, share knowledge, make friends, and grow as a designer.
+
+---
+
+#### References
+
+LAVE, J. & WENGER, E. (1991). Situated learning: Legitimate peripheral participation. New  
+York: Cambridge University Press.
+
+WENGER, E. (1998). Communities of practice: learning, meaning, and identity. New York:  
+Cambridge University Press.
+
