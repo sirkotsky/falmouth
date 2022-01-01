@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-11-14 Rapid Ideation Project — Game for Humanity.md",
+            "file": "2021-11-21 Agile Methodology.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-11-14 Rapid Ideation Project — Game for Humanity.md",
+                "file": "2021-11-21 Agile Methodology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "e7c06377c9764a4a",
   "lastOpenFiles": [
-    "2021-11-14 Rapid Ideation Project — Game for Humanity.md",
-    "2021-11-05 Version Control.md",
+    "2021-11-21 Agile Methodology.md",
     "2021-10-31 Reflecting on Rapid Ideation One.md",
-    "2021-10-24 Rapid Ideation Project — Flying Taxis.md",
-    "2021-10-15 Rapid Ideation Session Kick Off.md",
-    "2021-10-14 On Managers and Producers.md",
-    "2021-10-04 On Rapid Ideation.md",
-    "2021-09-28 Remediation Challenge.md",
     "2021-09-27 Computational Creativity.md",
-    "2021-09-19 On Reflective Writing.md"
+    "2021-09-24 Agile Development Practices.md",
+    "2021-09-20 Avatar Through Objects.md",
+    "2021-09-19 On Reflective Writing.md",
+    "2021-12-07 Final Reflection.md",
+    "2021-12-01 Real WORKs.md",
+    "2021-11-14 Rapid Ideation Project — Game for Humanity.md",
+    "2021-11-05 Version Control.md"
   ]
 }
