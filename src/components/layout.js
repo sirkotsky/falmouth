@@ -64,8 +64,12 @@ const Layout = ({ location, title, children }) => {
       title: "About"
     },
     {
-      link: "/modules",
-      title: "Modules"
+      link: "/module/gdo-710",
+      title: "GDO710"
+    },
+    {
+      link: "/module/uxo-720",
+      title: "UXO720"
     },
   ]
 

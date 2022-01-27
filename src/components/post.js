@@ -4,6 +4,8 @@ import { rhythm } from "../utils/typography"
 
 import { PostDataList } from "./meta";
 
+import { moduleColor } from "../utils/moduleColor"
+
 const SinglePost = (props) => {
     return (
         <article key={props.slug}>
@@ -13,7 +15,7 @@ const SinglePost = (props) => {
                   marginBottom: rhythm(1 / 4),
                 }}
               >
-                <Link style={{ boxShadow: `none` }} to={props.slug}>
+                <Link style={{ boxShadow: `none` }} to={props.slug} className={moduleColor(props.module)}>
                   {props.title}
                 </Link>
               </h3>

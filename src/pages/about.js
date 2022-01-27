@@ -24,7 +24,7 @@ const AboutPage = ({ data, location }) => {
       </Text>
       <Text>
           I built this website using <a href="https://www.gatsbyjs.com" target="_black" rel="noreferrer">Gatsby</a>. It runs on Markdown, fed from <a href="https://obsidian.md" target="_blank" rel="noreferrer">Obsidian</a> — a powerful knowledge base tool. 
-          Feel free to <a href="mailto:mihelchris@gmail.com">drop me an email</a> or add me on <a target="_blank" rel="noreferrer" href={`https://linkedin.com/in/${social.linkedin}`}>add me on LinkedIn</a>.
+          Feel free to <a href="mailto:hi@kotsky.me">drop me an email</a> or add me on <a target="_blank" rel="noreferrer" href={`https://linkedin.com/in/${social.linkedin}`}>add me on LinkedIn</a>.
       </Text>
     </Layout>
   )

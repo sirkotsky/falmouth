@@ -2,14 +2,17 @@ import React from "react";
 import { Link } from "gatsby";
 import _ from "lodash"
 
+import { moduleColor } from "../utils/moduleColor"
+
 const PostDataList = (props) => {
+    const color = props.module === "GDO710" ? "text-gray-400" : ""
     return (
         <div className="flex items-baseline mb-2">
                 <div className="space-x-2 flex">
                     { props.module &&
                         <>
                             <div className="text-sm">
-                                <Link to={'/module/'+_.kebabCase(props.module)}>{props.module}</Link>
+                                <Link to={'/module/'+_.kebabCase(props.module)} className={moduleColor(props.module)}>{props.module}</Link>
                             </div>
                         </>
                     }
