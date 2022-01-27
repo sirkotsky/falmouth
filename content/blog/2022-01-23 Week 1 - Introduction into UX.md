@@ -108,6 +108,8 @@ There is still much to be discovered, and the sketch I prepared could be the fir
 
 For example, the workspace of Sarah could feature a bookshelf to help her organise her reading materials. I could also consider adding a coaster with a no spill cup (to compliment the snacks). I might have to consider adding an extra arm or a stand for the second laptop, and some more light to make sure the space is well-lit.
 
+Reading through other submissions in the forum, I realise I should have put more effort into validating the solution: for instance, use the Kano Model metrix to validate usability, or have a closing questionnaire to make sure the details of my proposed redesign are relevant and valid (i.e. UMUX score).
+
 ---
 
 ## What I've learnt this week
@@ -119,7 +121,7 @@ For example, the workspace of Sarah could feature a bookshelf to help her organi
 
 ## My goals for this module
 
-- ==Build strong testing skills==. I will prepare for and facilitate at least 3 in-depth interviews and 3 usability testing sessions for the prototype assignement. 
+- ==Build strong testing skills==. I will prepare for and facilitate at least 3 in-depth interviews and 3 usability testing sessions for the prototype assignement. I will also explore other methods of validating the solution and receiving feedback.
 
 - ==Explore motion design==. I have never worked on motion design projects, aside from a few small assignements. I will be spending at least 4 hours a week for the next 12 weeks working with motion design tools (After Effects) and use self-created motion graphic assets for the prototype.
 
