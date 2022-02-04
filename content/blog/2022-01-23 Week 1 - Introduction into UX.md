@@ -119,13 +119,13 @@ Reading through other submissions in the forum, I realise I should have put more
 - Testing the solution early is a great way of fixing your mistakes quickly.
 - Design Thinking is a great framework, but it is often tempting to jump straight into brainstorming a solution. Make sure you do your due diligence and research, research, research.
 
-## My goals for this module
+## My goals
 
 - ==Build strong testing skills==. I will prepare for and facilitate at least 3 in-depth interviews and 3 usability testing sessions for the prototype assignement. I will also explore other methods of validating the solution and receiving feedback.
 
-- ==Explore motion design==. I have never worked on motion design projects, aside from a few small assignements. I will be spending at least 4 hours a week for the next 12 weeks working with motion design tools (After Effects) and use self-created motion graphic assets for the prototype.
+- ==Master a new tool==. I've been using Figma and Sketch actively for the past 4 years, and have become quite proficient in both. For this module, I would like to use an opportunity to master new design and prototyping tools, ideally open source. I will set out to explore other tools available in the market and go with something I am not familiar with, especially those that can be used for testing.
 
-- ==Master a new tool==. I've been using Figma and Sketch actively for the past 4 years, and have become quite proficient in both. For this module, I would like to use an opportunity to master new design and prototyping tools, ideally open source. I will set out to explore other tools available in the market and go with something I am not familiar with. 
+- ==Bonus: master motion design==. I have never worked on motion design projects, aside from a few small assignments in the past. I will enrol in a LinkedIn learning module to study After Effects and use self-created motion graphic assets for the prototype.
 
 ---
 

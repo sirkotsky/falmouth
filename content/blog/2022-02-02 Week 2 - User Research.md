@@ -65,6 +65,11 @@ It took a while to convince myself that a small sample of 5 users would be enoug
 
 I initially failed to record the first 2 interviews, and had to take notes while interviewing my users: it has proven to be extremely inconvenient and distracting, I may have missed a few insights during the interviews. I pivoted to asking for permission during the remaining interviews, and am now looking into using note-sketching (Aghanasiri et al. 2019) instead — it is supposed to provide enough flexibility and help boost my creative memory while retaining the most important insights from the participants.
 
+## My goals
+- ==Reinforce my testing skills==. By the end of next week, I will design an interview checklist to never forget to record an interview and help me structure my research process better.
+
+- ==Explore Axure==. Well-aligned with my goal of exploring new tools, I will use this opportunity to learn Axure as a prototyping tool that provides in-depth interaction functionality.
+
 ---
 
 #### References
