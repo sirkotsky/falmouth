@@ -1,5 +1,5 @@
 ---
-title: Week 2 - User Reserach
+title: Week 2 - User Research
 published: 2022-02-02
 author: kotsky
 description: Exploring various methods of researching the users and applying them on practice
