@@ -1,6 +1,6 @@
 ---
 title: Week 3 - Persona
-published: 2022-02-02
+published: 2022-02-10
 author: kotsky
 description: Crafting a persona, facilitating the competitor analysis for the creative assignment
 module: UXO720
