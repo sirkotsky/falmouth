@@ -1,6 +1,8 @@
 import React from "react"
 import { Link } from "gatsby"
 import { ThemeToggler } from "gatsby-plugin-dark-mode"
+import {Helmet} from "react-helmet";
+
 import Footer from "./footer"
 import "./global.css"
 
@@ -99,28 +101,15 @@ const Layout = ({ location, title, children }) => {
   )
 
   return (
-    <div
-      style={{
-        backgroundColor: "var(--bg)",
-        color: "var(--textNormal)",
-        transition: "color 0.2s ease-out, background 0.2s ease-out",
-        minHeight: "100vh",
-      }}
-    >
-      <div className="sidebar">
-        <div
-          className="md:h-screen p-4 flex flex-col justify-center items-center"
-          style={{ minHeight: 200 }}
-        >
-          {header}
-        </div>
-      </div>
-
-      <div className="main-content relative">
-        <main>{children}</main>
-        <Footer />
-      </div>
+    <>
+    <Helmet>
+      <body className="dark" />
+    </Helmet>
+    <div className="mx-auto max-w-full w-96 relative px-3 md:px-0 dark:text-white">
+      <main className="">{children}</main>
+      <Footer />
     </div>
+    </>
   )
 }
 

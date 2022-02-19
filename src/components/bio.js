@@ -61,7 +61,8 @@ const Bio = () => {
       />
       <p
         style={{
-          marginBottom: 0
+          marginBottom: 0,
+          textAlign: "left" 
       }}>
         A journal by <strong>{author.name}</strong>.
         {` `}

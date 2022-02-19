@@ -8,13 +8,9 @@ import { moduleColor } from "../utils/moduleColor"
 
 const SinglePost = (props) => {
     return (
-        <article key={props.slug}>
+        <article key={props.slug} className="dark:bg-indigo-900 p-7 my-2 rounded-xl">
             <header>
-              <h3
-                style={{
-                  marginBottom: rhythm(1 / 4),
-                }}
-              >
+              <h3 className="mt-0">
                 <Link style={{ boxShadow: `none` }} to={props.slug} className={moduleColor(props.module)}>
                   {props.title}
                 </Link>
@@ -22,7 +18,7 @@ const SinglePost = (props) => {
               <PostDataList published={props.published} module={props.module} week={props.week}/>
             </header>
             <section>
-              <p
+              <p className="mb-0"
                 dangerouslySetInnerHTML={{
                   __html: props.content,
                 }}
