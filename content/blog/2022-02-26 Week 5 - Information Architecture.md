@@ -30,7 +30,9 @@ I think at the end of the day, if your service helps people reach their jobs-to-
 
 It takes me a bit longer to complete this week's creative challenge, and I am still not done with it yet, currently in the middle of collecting enough Card Sort submissions (you can help by clicking this link).
 
-I started with outlining and refining the onboarding flow and understanding the goals of the process. My product is driven by customer-generated content, so it was important to ensure that users don't feel overwhelmed with the functionality, that the experience is personalised for them, and that they are familiar with the app's value drivers and features. As Korovials (2022) suggests, I decided to avoid a generic tutorial and focus on keeping the customer's experience in mind: 
+I started with outlining and refining the onboarding flow and understanding the goals of the process. My product is driven by customer-generated content, so it was important to ensure that users don't feel overwhelmed with the functionality, that the experience is personalised for them, and that they are familiar with the app's value drivers and features. 
+
+As Korovials (2022) suggests, I decided to avoid a generic tutorial and focus on keeping the customer's experience in mind: 
 
 - How do I humanise the experience by helping them build a profile, yet retain anonymity and the sense of security for the customers?
 - How do I use explicit categorical personalisation (one when user's experience is defined by their behaviour and preferences (Fan and Poole 2005)) to help drive self–help journey and connect the right people to support each other?
@@ -39,15 +41,21 @@ I started with outlining and refining the onboarding flow and understanding the 
 
 I felt like using pen and paper allowed me to create with more freedom and creativity (without being restricted by a tool), I outlined the onboarding flow — from creating a profile to signing up.  As I was sketching, I came up with a few ideas of how the interface can help make the onboarding experience a tad more playful — for instance, the avatars that user selects will be highlighted with colour, whereas the rest will remain greyed out. 
 
+![Doing-oriented onboarding](./img/02/05-1.jpeg)
+
 I can already foresee some challenges here, one stemming from a need to maintain anonymity, and another from a need to be creatively sensitive and respectful towards users from different cultures. I will spend more time studying how interfaces are created for different cultures — I managed to find a few studies, including one on how the avatars are designed for users from Arabian culture (Aljaroodi et al. 2020), which clearly illustrates the need to be inclusive, sensitive, and mindful if I am willing to ensure users feel safe and respected while using my platform.
 
 Thinking about what the user will see after the onboarding experience is complete, I started putting together some wireframes. I'm using the Ant Design System for now, which is open source, pretty flexible, and helps me quickly design mid-fidelity mockups. I put together concepts of navigations, but couldn't find the need for supplemental navigation, as the app will most likely not require a safety net, having only one level of depth. 
+
+![Navigation](./img/02/05-2.jpeg)
 
 I am currently recruiting the users for the card sort, and trying to solve a few more puzzles that are on my mind regarding the information architecture:
 
 - How will users from different cultures navigate the app? Will they find it convenient? I will need to make sure I recruit a diverse pool of participants for the UTs down the lane. 
 - I tried to ensure that my IA is scalable enough by introducing the Wellness section. However, I am still not sure that it will be an equally understandable home for every new feature that I'm planning to introduce beyond MVP (guided meditation, breath, professional help, etc.). Is my IA scalable enough?
 - At the beginning of the onboarding process, I ask the user to select their areas of concerns (i.e. lack of sleep, work related stress, etc.). Should I make a flat hierarchy of concerns and list out all of them (like Therapeer is doing), or use a deep hierarchy and nest them? NNG (Whitenton 2013) says that  flat hierarchy might be a bad idea if many categories are present, so I might either need to shorten the list, or facilitate another card sort for concerns alone.
+
+![Information Architecture](./img/02/05-3.jpeg)
 
 I will spend my reading week putting together the first wireframes, refining the problem areas, and attempting to recruit more people for the card sort.
 
