@@ -14,6 +14,8 @@ tags:
 
 I spent this week refining the Information Architecture I have put together over the course of a previous week, as well as designing a set of wireflows and setting a strong foundation for the future prototype.
 
+![Standardisation grid](./img/02/06-grid.jpg)
+
 ## Information architecture
 
 I struggled to get more than 16 participants for the Cart Sort exercise, but the results were quite insightful nonetheless. 
