@@ -52,7 +52,7 @@ Working on the prototype helped me uncover more insights:
 ==Takeaways==
 - Quick and rapid prototyping early in the process allows not only to test and validate the assumptions, but also to identify the weak points in the design, information architecture, product;
 - Quick onboarding is important, but make it clear what the user can and cannot do, what information is being requested and why (‘you can always change it later‘);
-- MVP is a minimal viable product — any feature that is not basic 
+- MVP is a minimal viable product — any feature that might be removed can be removed.
 
 ---
 
