@@ -10,33 +10,31 @@ domains: Dispositional, Cognitive, Procedural, Affective, Interpersonal
 tags: 
 ---
 
-## Improving the experience
+## Prototype development
+
+### Information architecture
 
 I spent this week refining the Information Architecture I have put together over the course of a previous week, as well as designing a set of wireflows and setting a strong foundation for the future prototype.
 
 ![Standardisation grid](./img/02/06-grid.jpg)
 
-## Information architecture
+### Card sorting
 
 I struggled to get more than 16 participants for the Cart Sort exercise, but the results were quite insightful nonetheless. 
 
 ![IA in progress](./img/02/06-card.jpeg)
 
-I used some time this week to improve the information architecture after reviewing the structure of the application structure once more and identifying some issue. 
+I used some time this week to improve the information architecture after reviewing the structure of the application structure once more and identifying the issues. 
 
-1. Communication remains the crucial part of the application, yet, messaging functionality remains hidden in the ’Connections’ sections. It makes more sense to allocate the space for messaging functionality and allow people to access their in-app messenger in one click;
-2. Settings take a prominent space — yet, some items were left distributed by the card sort participants between ‘Profile’ and ‘Settings’. It makes sense to merge the two and allow the user to access the global settings from their profile page;
-3. One of my card sort participants suggested that the app should provide some stress relief functionality (gamified, potentially). I made sure to include this as a potentially interesting topic to discover.
+1. **Communication** remains the crucial part of the application, yet, messaging functionality remains hidden in the ’Connections’ sections. It makes more sense to allocate the space for messaging functionality and allow people to access their in-app messenger in one click;
+2. Settings take a prominent space — yet, some items were left distributed by the card sort participants between **‘Profile’ and ‘Settings’.** It makes sense to merge the two and allow the user to access the global settings from their profile page;
+3. One of my card sort participants suggested that the app should provide some **stress relief** functionality (gamified, potentially). I made sure to include this as a potentially interesting topic to discover.
 
 For the time being, my global information architecture is designed as follows:
 
 ![Information architecture](./img/02/06-ia.jpeg)
 
-I've also outlined some challenges and things to consider while putting together the wireframes:
-- A thing to test: will adding a form of social proof help people feel less lonely?
-- Feedback from a quick guerilla testing: always make sure to indicate that the user can change any information later!
-
-## Putting together the wireframes
+### Wireframes
 
 Coleman and Goodwin (2017) recommend approaching prototyping with a few questions in mind, one of these being the cost — it takes longer to implement a product of high fidelity, and at this point of time, I was not sure if I was ready to challenge myself to use an unfamiliar piece of software (I will leave this for the next step) or start designing a high-fidelity prototype right away, as I often do.
 
@@ -49,10 +47,19 @@ Working on the prototype helped me uncover more insights:
 
 ![This week's wireframes](./img/02/06-wireframes.jpg)
 
-==Takeaways==
+---
+
+## Learnings
 - Quick and rapid prototyping early in the process allows not only to test and validate the assumptions, but also to identify the weak points in the design, information architecture, product;
 - Quick onboarding is important, but make it clear what the user can and cannot do, what information is being requested and why (‘you can always change it later‘);
-- MVP is a minimal viable product — any feature that might be removed can be removed.
+
+---
+
+## Plans for the future
+While analysing the card sort results, I have outlined some challenges and things to consider while putting together the wireframes:
+
+- A thing to test: will adding a form of **social proof** help people feel less lonely?
+- Feedback from a quick guerilla testing: always make sure to indicate that the user can change any information later, this should be implemented in the prototype.
 
 ---
 

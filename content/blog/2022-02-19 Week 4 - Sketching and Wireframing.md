@@ -10,6 +10,7 @@ domains: Dispositional, Cognitive, Procedural, Affective, Interpersonal
 tags: 
 ---
 
+## Research
 This week's challenge was a lot of fun. I started off by revisiting the interviews from last week to identify areas for improvement, as well as outline the opportunities for gamification that may help solve some of my users' problems:
 
 - How might we help people connect with each other and build trust?
@@ -22,6 +23,8 @@ Marache-Francisco and Brangier in their paper titled ‘From the consideration o
 
 ![Refining the ideas](./img/02/04-02.jpeg)
 
+---
+## Prototype Development
 As I was sketching out the ideas, I realised that doodling the ideas was more than just another exercise as I used to think before (I would often skip sketching and jump straight into wireframing to save time, which often resulted in me wasting time pursuing meaningless ideas). Sketching gets you from facing an entirely mental problem to the point where you clearly see the solution (Schütze et al. 2003) — but it's crucial to iterate and keep improving.
 
 ![Refining the sketches](./img/02/04-021.jpeg)
@@ -34,12 +37,18 @@ I used the second iteration of sketches to put together a flow chart, so I am ab
 
 [Download this week's activities](./img/02/04.pdf)
 
-==Takeaways==
+---
+## Learnings
 - Sketching provides an incredible opportunity for exploring ideas at the lowest cost possible, transforms mental concepts into tangible semi-baked solutions;
 - Sketching is a vital step when the problem area is unexplored, or when the concept is new: it gives the opportunity to get rid of solutions that would definitely not work early in the process;
 - Using paper and sharpies helps truly immerse in the process;
 - Gamification may be a good addition to the product, but should not overpower the idea, nor block the users from enjoying the product;
 - Design studio activities help uncover opportunities for refinement early in the design process (it is important not to do the exercise alone and always test the solutions, even with a handful of participants, informally).
+
+---
+## Plans for the future
+- ==Research the best gamification practices==: the aspect promises a decent amount of potential for higher engagement, I should seize the opportunity and explore how to make it more fun and meaningful for the user;
+- ==Information architecture==: it is a good time to start thinking about how the application will be structured — from primary menu to supplementary navigation. It might be a good idea to set up Optimal Workshop and begin recruiting the participants for testing;
 
 ---
 

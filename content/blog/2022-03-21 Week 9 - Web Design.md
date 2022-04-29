@@ -10,7 +10,8 @@ domains: Dispositional, Cognitive, Procedural, Affective, Interpersonal
 tags: 
 ---
 
-## The importance of responsive design
+## Research
+### The importance of responsive design
 
 I find a quote from a literature review I stumbled upon while researching the topic to be quite relevant: responsive design is a digital world's analogue of ‘architectural design, whereby a room or space automatically adjusts to the number and flow of people within it’ (Mohamed and Ondago 2014). So, much like the architects who erect one building to host many visitors, designers employ responsive design to allow many users on one platform or application.
 
@@ -18,7 +19,9 @@ At the same time, people tend to confuse responsive design for adaptive and mobi
 
 So, in my view, responsive design is a basic requirement, a minimum baseline, and a right — for every visitor, on every device to have uninterrupted access.
 
-## Prototype updates
+---
+
+## Prototype development
 
 This week, I am addressing the issues from the previous week (mostly revolving around accessibility), as well as completing the first journey for the Product Desirability Testing. I will also try to facilitate a few guerilla sessions in between to quickly iterate and refine the journey.
 
@@ -36,23 +39,30 @@ I did make a lot of changes to font sizes (I used type-scale.com to generate fon
 
 ![Design Iterations](./img/02/09-change.jpeg)
 
-## Future research and development plans
+---
+
+## Learnings
+- Asking for feedback during the breakout session and a small group meeting helped refine the UI really well, specifically notice the accessibility issues. Ask for feedback and review early and frequently to notice anything you could not spot early;
+- Unusual patterns do not convey bad usability (tilt–scrolling). Research how to use them properly, and apply to enhance the experience where required.
+
+---
+
+## Plans for the future
 
 There is still much to be done (and tested), but for the next couple of days, I would love to focus on:
 
-- Finalising the journey and facilitating testing sessions (I might have to resort to using remote testing so it is a good time to learn how to use Maze);
-- Exploring a more scalable design language: for instance, I will need to tweak the font size for a web version of the app. I also need to document how gradients are being used in various scenarious, and if there is any coding to their meanings (for instance, purple for diaries, green for connections, etc.);
-- Accessibility features: how do I make the experience and the UI more accessible (for instance, introduce handwriting or voice note taking, a high–contrast version with larger fonts for web). It applies more to the web version than to an iOS app, but there are some areas left to explore — for instance, making sure that the minimal clickable area of 44px is ensured;
-- Micro–enhancements: custom 3d icons (a great opportunity to finally learn Blender!), micro–animations (time to open AE), for better engagement (I will put it in backlog for a while).
+- **Finalising the journey** and facilitating testing sessions (I might have to resort to using remote testing so it is a good time to learn how to use Maze);
+- Exploring a **more scalable design language**: for instance, I will need to tweak the font size for a web version of the app. I also need to document how gradients are being used in various scenarious, and if there is any coding to their meanings (for instance, purple for diaries, green for connections, etc.);
+- **Accessibility features**: how do I make the experience and the UI more accessible (for instance, introduce handwriting or voice note taking, a high–contrast version with larger fonts for web). It applies more to the web version than to an iOS app, but there are some areas left to explore — for instance, making sure that the minimal clickable area of 44px is ensured;
+- **Micro–enhancements**: custom 3d icons (a great opportunity to finally learn Blender!), micro–animations (time to open AE), for better engagement (I will put it in backlog for a while).
 
 ### Scrolling behaviour and unusual patterns
 As part of this week's research, I came across a number of studies on tilt–scrolling as a mean of decreasing the scrolling fatigue which naturally occurs when scrolling through large chunks of text, and providing a better single-handed experience (Liu et al. 2019). This may come in handy when designing the reading experience, as well as providing self–help methods I mentioned before (mini–games, clickers, etc).
 
 I am planning to expand the research and explore how various scrolling and interaction techniques, outside of conventional tap and scroll, can be utilised to help improve the user experience of my app.
 
-==Takeaways==
-- Asking for feedback during the breakout session and a small group meeting helped refine the UI really well, specifically notice the accessibility issues. Ask for feedback and review early and frequently to notice anything you could not spot early;
-- Unusual patterns do not convey bad usability (tilt–scrolling). Research how to use them properly, and apply to enhance the experience where required.
+
+---
 
 #### References
 

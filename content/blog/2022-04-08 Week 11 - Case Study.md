@@ -10,7 +10,8 @@ domains: Dispositional, Cognitive, Procedural, Affective, Interpersonal
 tags: 
 ---
 
-## The art of Storytelling
+## Research
+### The art of Storytelling
 
 Storytelling is a crucial part of communicating a cohesive experience. It helps relieve the pressure on memory through visualisation, bringing together research, analysis, and ideation (Peng 2017). Facilitating an inventory helped me visualise how some of my screens fail to support the notion — for instance, the screen that offers the user to select a template. I should consider supporting the selection with visuals, as well as promoting frequently used templates. 
 
@@ -22,10 +23,25 @@ This explains, for instance, why a call feature, proposed by the app, was met fo
 
 ![Audio Calls — Before and After](./img/02/11-story.png)
 
-## Articulating design decisions
+### Articulating design decisions
 Having read a great book by Tom Greever (2020) titled ‘Articulating design decisions’, I couldn't help but reflect on whether my design is meeting my primary user's goals and expectations.
 
 I covered the questions of accessibility, following common design patterns, and delivering a feasible experience (despite being tempted to introduce more fantastic features!) in the previous entries. 
+
+## Suicide prevention
+This week, I dedicated some time to research how machine learning can be used to capture emotions and depressive tendencies. As many of my testing participants pointed out, it was rather crucial for them to know that the application provided safe and secure environment — henceforth, making ensuring it can detect dangerous situations was of high importance. 
+
+Desmet and Hoste (2018) point out that, since many people with suicidal tendencies often discuss their condition on social media, their mental state can be detected by using a combination of linguistical and behavioural techniques that will analyse not only the keywords, as initially proposed in my early designs, but the entire user profile in a long run, bypassing misspelling, abbreviations, and other natural limitations.
+
+Leive and Freire (2017) second that, pointing also that people use social media as a way of relieving their pains and suicidal thoughts. 
+
+This made rethink the way my prototype behaved, and implement a new screen that will get triggered after the entry was published, offerring warm and non–intrusive support.
+
+![Suicide prevention trigger](./img/02/11-trigger.png)
+
+
+## Prototype development
+### Reflection
 
 Reflecting back on my persona, I was trying to answer whether my app provided adequate pain relievers and gainers for them:
 
@@ -44,19 +60,6 @@ I was also mindful of the don'ts:
 
 However, I am yet to discover a sustainable way of making sure the user can visualise their progress, set goals
 
-## Research: suicide prevention
-This week, I dedicated some time to research how machine learning can be used to capture emotions and depressive tendencies. As many of my testing participants pointed out, it was rather crucial for them to know that the application provided safe and secure environment — henceforth, making ensuring it can detect dangerous situations was of high importance. 
-
-Desmet and Hoste (2018) point out that, since many people with suicidal tendencies often discuss their condition on social media, their mental state can be detected by using a combination of linguistical and behavioural techniques that will analyse not only the keywords, as initially proposed in my early designs, but the entire user profile in a long run, bypassing misspelling, abbreviations, and other natural limitations.
-
-Leive and Freire (2017) second that, pointing also that people use social media as a way of relieving their pains and suicidal thoughts. 
-
-This made rethink the way my prototype behaved, and implement a new screen that will get triggered after the entry was published, offerring warm and non–intrusive support.
-
-![Suicide prevention trigger](./img/02/11-trigger.png)
-
-## Prototype progress
-
 ### Usability testing
 I facilitated some more testing sessions to learn that:
 - People look for a quick escape during long journeys (such as adding a reflection), so implementing a close button helps relieve pressure;
@@ -64,7 +67,6 @@ I facilitated some more testing sessions to learn that:
 - A number of people pointed out that they would turn to guided meditation as a mean of self–help, so I decided to introduce meditations as part of the Wellness journey.
 
 ![Testing sessions](./img/02/11-testing.jpeg)
-
 
 I have achieved some great progress in designing the high–fidelity prototype:
 
@@ -75,8 +77,9 @@ I have achieved some great progress in designing the high–fidelity prototype:
 
 ![Fake Door](./img/02/11-webflow.jpg)
 
+---
 
-## Future plans
+## Plans for the future
 - Visualisation and storytelling: how might I improve the way my app communicates with the user? For instance, what kinds of messages will it be sending, if push notifications do not exist? Can I visualise the templates better?
 - Conveniency: some people pointed out they were not sure they would feel comfortable typing their diaries in on a phone screen. Is it possible to implement other ways: photo, hand writing, voice diary?
 - Safety: I am working on injecting a few components that will help communicate that the app is 100% anonymous and secure.

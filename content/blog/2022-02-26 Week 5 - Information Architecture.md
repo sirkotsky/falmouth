@@ -10,7 +10,8 @@ domains: Dispositional, Cognitive, Procedural, Affective, Interpersonal
 tags: 
 ---
 
-## Understanding the importance of a good navigation
+## Research
+### Understanding the importance of a good navigation
 
 > People hesitate to come back to a website if they had a hard time navigating through it
 
@@ -26,10 +27,10 @@ That being said, its navigation (and experience overall) is horrendous from the 
 
 I think at the end of the day, if your service helps people reach their jobs-to-be-done (especially if it doesn't have an alternative), they can suffer through a couple of design mistakes. Otherwise, they will drop you and find someone who does it better than you.
 
-## Creative challenge
+---
 
-It takes me a bit longer to complete this week's creative challenge, and I am still not done with it yet, currently in the middle of collecting enough Card Sort submissions (you can help by clicking this link).
-
+## Prototype Development
+### Crafting an onboarding experience
 I started with outlining and refining the onboarding flow and understanding the goals of the process. My product is driven by customer-generated content, so it was important to ensure that users don't feel overwhelmed with the functionality, that the experience is personalised for them, and that they are familiar with the app's value drivers and features. 
 
 As Korovials (2022) suggests, I decided to avoid a generic tutorial and focus on keeping the customer's experience in mind: 
@@ -43,11 +44,25 @@ I felt like using pen and paper allowed me to create with more freedom and creat
 
 ![Doing-oriented onboarding](./img/02/05-1.jpeg)
 
+### Identifying the challenges
 I can already foresee some challenges here, one stemming from a need to maintain anonymity, and another from a need to be creatively sensitive and respectful towards users from different cultures. I will spend more time studying how interfaces are created for different cultures — I managed to find a few studies, including one on how the avatars are designed for users from Arabian culture (Aljaroodi et al. 2020), which clearly illustrates the need to be inclusive, sensitive, and mindful if I am willing to ensure users feel safe and respected while using my platform.
 
+### Information architecture
 Thinking about what the user will see after the onboarding experience is complete, I started putting together some wireframes. I'm using the Ant Design System for now, which is open source, pretty flexible, and helps me quickly design mid-fidelity mockups. I put together concepts of navigations, but couldn't find the need for supplemental navigation, as the app will most likely not require a safety net, having only one level of depth. 
 
 ![Navigation](./img/02/05-2.jpeg)
+
+---
+
+## Learnings
+- There are multiple types of navigation (not only ‘primary’ and ‘secondary’ as I used to believe), and each type can be pre-defined to help guide the user experience;
+- Facilitating card sort externally (not with internal stakeholders only) helps uncover some great and unexpected insights;
+- You are not your user — ask the others to test your prototype if you want to design the best solution.
+
+---
+
+## Plans for the future
+I will spend my reading week putting together the first wireframes, refining the problem areas, and attempting to recruit more people for the card sort.
 
 I am currently recruiting the users for the card sort, and trying to solve a few more puzzles that are on my mind regarding the information architecture:
 
@@ -56,13 +71,6 @@ I am currently recruiting the users for the card sort, and trying to solve a few
 - At the beginning of the onboarding process, I ask the user to select their areas of concerns (i.e. lack of sleep, work related stress, etc.). Should I make a flat hierarchy of concerns and list out all of them (like Therapeer is doing), or use a deep hierarchy and nest them? NNG (Whitenton 2013) says that  flat hierarchy might be a bad idea if many categories are present, so I might either need to shorten the list, or facilitate another card sort for concerns alone.
 
 ![Information Architecture](./img/02/05-3.jpeg)
-
-I will spend my reading week putting together the first wireframes, refining the problem areas, and attempting to recruit more people for the card sort.
-
-==Takeaways==
-- There are multiple types of navigation (not only ‘primary’ and ‘secondary’ as I used to believe), and each type can be pre-defined to help guide the user experience;
-- Facilitating card sort externally (not with internal stakeholders only) helps uncover some great and unexpected insights;
-- You are not your user — ask the others to test your prototype if you want to design the best solution.
 
 ---
 

@@ -32,22 +32,6 @@ const PostDataList = (props) => {
                             </div>
                         </>
                     }
-                    { props.category &&
-                        <>
-                            <div className="text-base font-normal mx-2">·</div>
-                            <div className="text-sm dark:text-gray-300 text-gray-500">
-                                {props.category}
-                            </div>
-                        </>
-                    }
-                    { props.domains &&
-                        <>
-                            <div className="text-base font-normal mx-2">·</div>
-                            <div className="text-sm dark:text-gray-300 text-gray-500">
-                                {props.domains}
-                            </div>
-                        </>
-                    }
                 </div>
         </div>
     )

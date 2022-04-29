@@ -10,19 +10,16 @@ domains: Dispositional, Cognitive, Procedural, Affective, Interpersonal
 tags: 
 ---
 
-## User Research
-
+## Research
 This week was dedicated to learning about different methods of usability (not user!) testing: from task analysis to diary studies.
 
-### New discoveries
-
-One tool that was completely new to me was Task Analysis — I've never had a chance to use it, and it seems to be a great opportunity to practice applying it while preparing my creative assignment. Task Analysis appears to be a simple yet effective tool, although Larry Marine, for instance, warns not to confuse it with use cases (Marine 2014), which I initially thought it to be. 
+One tool that was completely new to me was **Task Analysis** — I've never had a chance to use it, and it seems to be a great opportunity to practice applying it while preparing my creative assignment. Task Analysis appears to be a simple yet effective tool, although Larry Marine, for instance, warns not to confuse it with use cases (Marine 2014), which I initially thought it to be. 
 
 Among the many things mentioned in this week's materials, I have never got a chance to work with A/B testing and customer support metrics, and although I may not be able to touch the latter, the former will surely go to my usability testing plan for the final assignment.
 
 ---
 
-## New brief  
+## Prototype Development
 I chose a brief to go with, and spent this week refining the details, speaking with users I made sure to recruit early, and putting together a problem statement.
 
 ### Problem area
@@ -32,43 +29,48 @@ Technology has prepared its response to the issue, and the number of mobile apps
 
 At the same time, peer support has proven to be an effective way of dealing with mental issues (Fortuna et al. 2020), and it appears to only be partially present in the digital sphere, with some apps taking off (Therapeer). What if we could help connect people with similar concerns, life challenges, and issues, making sure we leverage the modern technology, while focusing primarily on those in need of a ‘buddy’ or a ‘mentor’, as opposed to those requiring professional medical help?
 
+![Problem Area](./img/02/02-area.jpeg)
+
 ### Problem statement
-How might we help people process their personal issues better by connecting those who have faced similar challenges and allowing them to provide peer support to those in need?
+**How might we** help people **process** their personal issues better by connecting those who have faced similar challenges and allowing them to provide **peer support** to those in need?
+
+![Problem Statement](./img/02/02-statement.jpeg)
 
 ### Hypothesis
 People will feel better knowing there is someone out there willing to support them in the moment of need, free of judgement of any sort. We believe that a pathway to a prosperous society lies in creating a space where people are free to speak up, discuss their concerns, and connect with those who have had similar challenges in the past.
 
-### User research
+### User interviews
 I started off by putting together a short moderator's guide and recruiting people guerilla-style (peers, colleagues). I tried to diversify the pool of users, and include people from different cultural background.
 
 ![Moderator's Guide](./img/02/02-guide.jpg)
 
-I focused my interviews on 4 topics:
+I focused my **interviews** on 4 topics:
 - What are their most stress-inducing factors in life?
 - What are their methods of coping with stress?
 - Do they keep diaries, and whether they find them useful?
 - What's their attitude towards peer support, and whether they would be comfortable discussing their issues with other people?
 
-I summed up my findings in the affinity map below:
+I summed up my findings in the **affinity map** below:
 
 ![Affinity Map](./img/02/02-affinity.jpg)
 
 ---
 
-## What I've learnt this week
+## Learnings
+I initially wrote a long list of questions, covering multiple aspects of people's lives and struggles — it would take about an hour to go over all the questions. It took me a while to rewrite the questions — and even longer to make sure to **avoid leading questions**, close-ended questions, as recommended by specialists (Pernice 2018).
 
-I initially wrote a long list of questions, covering multiple aspects of people's lives and struggles — it would take about an hour to go over all of the questions. It took me a while to rewrite the questions — and even longer to make sure to avoid leading questions, close-ended questions, as recommended by specialists (Pernice 2018).
+After spending some time with the guide, I managed to **narrow the questions down** to a digestible amount (it took around 15 roughly to go over them with the participants). 
 
-After spending some time with the guide, I managed to narrow the questions down to a digestible amount (it took around 15 roughly to go over them with the participants). 
+It took a while to convince myself that a small sample of **5 users would be enough** to gain insights (Whitenton 2019), especially given the topic that was rather sensitive. However, the insights I managed to uncover — for instance, that people are rather comfortable sharing sensitive things online anonymously — provided with a great amount of powerful insights. 
 
-It took a while to convince myself that a small sample of 5 users would be enough to gain insights (Whitenton 2019), especially given the topic that was rather sensitive. However, the insights I managed to uncover — for instance, that people are rather comfortable sharing sensitive things online anonymously — provided with a great amount of powerful insights. 
+I initially **failed to record the first 2 interviews**, and had to take notes while interviewing my users: it has proven to be extremely inconvenient and distracting, I may have missed a few insights during the interviews. I pivoted to asking for permission during the remaining interviews, and am now looking into using note-sketching (Aghanasiri et al. 2019) instead — it is supposed to provide enough flexibility and help boost my creative memory while retaining the most important insights from the participants.
 
-I initially failed to record the first 2 interviews, and had to take notes while interviewing my users: it has proven to be extremely inconvenient and distracting, I may have missed a few insights during the interviews. I pivoted to asking for permission during the remaining interviews, and am now looking into using note-sketching (Aghanasiri et al. 2019) instead — it is supposed to provide enough flexibility and help boost my creative memory while retaining the most important insights from the participants.
+---
 
-## My goals
-- ==Reinforce my testing skills==. By the end of next week, I will design an interview checklist to never forget to record an interview and help me structure my research process better.
-
-- ==Explore Axure==. Well-aligned with my goal of exploring new tools, I will use this opportunity to learn Axure as a prototyping tool that provides in-depth interaction functionality.
+## Plans for the future
+- ==Synthesise the research== and use it to put together the persona. Research the best practices of persona design. 
+- ==Reinforce testing skills==. By the end of next week, I will design an interview checklist to never forget to record an interview and help me structure my research process better.
+- ==Explore high–fidelity prototyping tools== . Well-aligned with my goal of exploring new tools, I will use this opportunity to learn Axure or a similar prototyping tool that provides in-depth interaction functionality (user input, variables, etc).
 
 ---
 

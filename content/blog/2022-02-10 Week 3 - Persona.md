@@ -10,23 +10,28 @@ domains: Dispositional, Cognitive, Procedural, Affective, Interpersonal
 tags: 
 ---
 
-## Challenging the definition of empathy
+## Research
 
-Researching the definitions of empathy and its role in design, I stumbled upon a very in-depth take: a bit philosophical, but very unorthodox. 
+Researching the **definitions of empathy** and its role in design, I stumbled upon a very in-depth take: a bit philosophical, but very unorthodox. 
 
 Essentially, empathy is best described as ‘knowing another's present experience’ (Meneses 2011). There exist at the very least two types of empathy — cognitive, the ability to understand other's mental state or perspective, and affective, the capacity to respond with an appropriate emotion. Designers are expected to possess strong cognitive skills — and sometimes, as NNG puts it, ‘share another person’s expressions, needs, and motivations’ (Gibbons 2019) — walk in their shoes, so to speak.
 
-Devecchi and Guerrini (2017), make a strong case that empathy is not a possibility to experience exactly what the other person feels: it is ‘a skill to be with another, be involved in the face-to-face encounter with a concrete Other, acquainting and accepting his/her otherness’. They claim that with this definition of empathy, the approach to empathetic design should shift — from designing WITH empathy to designing FOR empathetic experiences. 
+Devecchi and Guerrini (2017), make a strong case that ==empathy is not a possibility to experience exactly what the other person feels==: it is ‘a skill to be with another, be involved in the face-to-face encounter with a concrete Other, acquainting and accepting his/her otherness’. They claim that with this definition of empathy, the approach to empathetic design should shift — from designing WITH empathy to designing FOR empathetic experiences. 
 
 Instead of using empathy as a tool to gain insights, empathetic experiences should be an end to pursue — as the only way to embrace the culture of communication, sociality, encounter. ‘Had one had the same access to the other’s consciousness as to one’s own, the other would have ceased being an other, and would instead have become a part of oneself’ (Husserl 1973). 
 
 To put it simply, we don't have to wear someone else's shoes and assume what they might like, think, do — instead, we need to focus on what makes us different, put our efforts into creating a more collaborative, sustainable, and creative society.
 
-==Takeaway==: instead of attempting to wear my single (and rather narrow) persona's shoes, I should empathise with the audience and respect diversity and creativity. 
+So, instead of attempting to wear a single (and rather narrow) persona's shoes, I should empathise with the audience and ==respect diversity and creativity==. 
 
-## Creative challenge
+---
+## Prototype Development
+
+### Credits
 
 First, I wanted to thank LJ for pointing me in the right direction with the user interviews — I went back and facilitated a few more sessions to close the gaps and focus not only on what those in need of emotional support required, but also on what my users thought about supporting the others emotionally.
+
+### Persona development
 
 So, here is where my persona was born: I decided to follow Indi Young's advice and removed all demographics data (Young 2016), and instead focused on what my persona needed — the type of wants and aspirations my product could fulfill, the pain points I could relieve. I also recalled Jason Travis's advice (2015) and included some personal items to make my persona a bit more human. ‘Communicating the user experience’ also recommended to include Must Do's and Must Don'ts (Caddick and Cable 2011), so they also helped me enforce my persona quite well.
 
@@ -36,6 +41,8 @@ I then proceeded into creating a Task Map but quickly realised it didn't capture
 
 ![Task Map](./img/02/03-tasks.jpeg)
 
+### User journey design
+
 A User Journey helped me solve what persona expectedly couldn't — get a 3D perspective and put the priority on my user (Howard 2014). I included the actions my user takes, the thoughts she is having during and after the experience, and the opportunities that could help eliminate her biggest pain points and make her experience more pleasant.
 
 ![User journey, part I](./img/02/03-journey-1.jpeg)
@@ -43,6 +50,8 @@ User journey, part I
 
 ![User Journey. part II](./img/02/03-journey-2.jpeg)
 User Journey. part II
+
+### Market analysis
 
 Concurrently, I was busy analysing the three types of competitors — Journaling and self-help apps, Peer-support platforms, and Networking products. I used feature inventory to outline the feature most of the selected apps had in common. A little thing I noticed was that while some got certain aspects really well (Reflectly, for instance, provided an outstanding journaling experience), none of the competitors provided all key features at the same time (Therapeer, for instance, only focused on peer support, and Wisdo only had discussion clubs and mentorship programmes). I also outlined what those apps excelled at to help me learn from the best.
 
@@ -52,12 +61,18 @@ Completing the persona, UJ, and competitor analysis helped me understand what my
 
 ![Feature analysis](./img/02/03-analysis-features.jpeg)
 
-==Takeaways==
-- Research is a long and non-linear process: being comfortable with having to pivot is the key to achieving great results;
+---
+## Learnings
+- Instead of attempting to wear a single (and rather narrow) persona's shoes, I should empathise with the audience and ==respect diversity and creativity==;
+- Research is a long and non-linear process: being comfortable having to pivot is the key to achieving great results;
 - Short interview sessions with 5 people yield fantastic insights;
 - When creating persona, humanise it, while basing it off of real insights — make it believable, alive, human;
-- Focus on what can be borrowed from the competitors, but do not forget to identify new opportunities.
+- Focus on what can be borrowed from the competitors, but also explore new opportunities.
 
+---
+## Plans for the future
+- Begin ==sketching== out the ideas and wireframing the core user journey (paper prototype); 
+- Explore opportunities for ==gamification== and user engagement to help create long–term relationships between the product and the customers;
 ---
 
 #### References
