@@ -16,7 +16,7 @@ const Layout = ({ location, title, children }) => {
         return (
           <button
             aria-label="theme-switch"
-            className="leading-none p-1"
+            className="fixed right-0.5 top-0.5 leading-none p-1"
             onClick={() => toggleTheme(isDarkMode ? "light" : "dark")}
           >
             {isDarkMode ? (
@@ -76,18 +76,10 @@ const Layout = ({ location, title, children }) => {
   const header = (
     <>
       {toggle}
-        <ul 
-          style={{
-            listStyle: `none`,
-            marginLeft: 0
-          }}>
+        <ul className="md:flex list-none mx-0 mt-3">
             {sidebarMenu.map((item) => 
-              <li>
+              <li className="mr-4">
                 <Link
-                  style={{
-                    boxShadow: `none`,
-                    color: `inherit`,
-                  }}
                   to={item.link}
                 >
                   {item.title}
@@ -107,16 +99,9 @@ const Layout = ({ location, title, children }) => {
         minHeight: "100vh",
       }}
     >
-      <div className="sidebar">
-        <div
-          className="md:h-screen p-4 flex flex-col justify-center items-center"
-          style={{ minHeight: 200 }}
-        >
-          {header}
-        </div>
-      </div>
 
-      <div className="main-content relative">
+      <div className="max-w-screen-md mx-auto relative">
+        {header}
         <main>{children}</main>
         <Footer />
       </div>
