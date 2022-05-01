@@ -54,6 +54,7 @@ When it came to selecting fonts, I came across Atkinson Hyperlegible — a font 
 After several iterations, I managed to find a set of pleasantly looking gradients, colours, and icons, and put together three pages from my application — Profile, Diaries, New Entry.
 
 ![Visual Design](./img/02/08-design.jpeg)
+
 ---
 
 ## Plans for the future

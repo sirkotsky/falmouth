@@ -66,7 +66,7 @@ I am planning to expand the research and explore how various scrolling and inter
 
 #### References
 
-‘8-Point Grid’. 2022. _Spec.fm_ [online]. Available at: [https://spec.fm](https://spec.fm) [accessed 23 Mar 2022]. — ==Why am I using a 8 pt grid== — a soft grid to maintain consistency and visual hierarchy, allow for scalability 
+‘8-Point Grid’. 2022. _Spec.fm_ [online]. Available at: [https://spec.fm](https://spec.fm) [accessed 23 Mar 2022]. — Why am I using a 8 pt grid — a soft grid to maintain consistency and visual hierarchy, allow for scalability 
 
 BABICH, N. 2017. ‘Building Better UI Designs With Layout Grids’ [online], _Smashing Magazine,_ 20 December. Available at: [https://www.smashingmagazine.com/2017/12/building-better-ui-designs-layout-grids/ (Links to an external site.)](https://www.smashingmagazine.com/2017/12/building-better-ui-designs-layout-grids/) [Accessed 23 December 2020].
 

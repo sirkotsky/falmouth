@@ -25,6 +25,7 @@ To put it simply, we don't have to wear someone else's shoes and assume what the
 So, instead of attempting to wear a single (and rather narrow) persona's shoes, I should empathise with the audience and ==respect diversity and creativity==. 
 
 ---
+
 ## Prototype Development
 
 ### Credits
@@ -62,6 +63,7 @@ Completing the persona, UJ, and competitor analysis helped me understand what my
 ![Feature analysis](./img/02/03-analysis-features.jpeg)
 
 ---
+
 ## Learnings
 - Instead of attempting to wear a single (and rather narrow) persona's shoes, I should empathise with the audience and ==respect diversity and creativity==;
 - Research is a long and non-linear process: being comfortable having to pivot is the key to achieving great results;
@@ -70,9 +72,11 @@ Completing the persona, UJ, and competitor analysis helped me understand what my
 - Focus on what can be borrowed from the competitors, but also explore new opportunities.
 
 ---
+
 ## Plans for the future
 - Begin ==sketching== out the ideas and wireframing the core user journey (paper prototype); 
 - Explore opportunities for ==gamification== and user engagement to help create long–term relationships between the product and the customers;
+
 ---
 
 #### References

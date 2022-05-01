@@ -39,6 +39,7 @@ This made rethink the way my prototype behaved, and implement a new screen that 
 
 ![Suicide prevention trigger](./img/02/11-trigger.png)
 
+---
 
 ## Prototype development
 ### Reflection

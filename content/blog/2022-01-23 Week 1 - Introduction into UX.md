@@ -45,6 +45,8 @@ I can trace my personal progress: from believing that Design Thinking was for de
 
 Before jumping into brainstorming the possible solution, it is important to understand the user: their needs, goals, and expectations. I applied this thinking into preparing to complete this week's challenge activity.
 
+---
+
 ## Learning in practice: weekly redesign challenge
 
 ### Empathise 
@@ -118,6 +120,8 @@ Reading through other submissions in the forum, I realise I should have put more
 - Get a plan B ready in case things go wrong. In my case, I created an Excel document that I was able to share with Sarah since we were not able to meet online.
 - Testing the solution early is a great way of fixing your mistakes quickly.
 - Design Thinking is a great framework, but it is often tempting to jump straight into brainstorming a solution. Make sure you do your due diligence and research, research, research.
+
+---
 
 ## My goals
 

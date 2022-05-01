@@ -24,6 +24,7 @@ Marache-Francisco and Brangier in their paper titled ‘From the consideration o
 ![Refining the ideas](./img/02/04-02.jpeg)
 
 ---
+
 ## Prototype Development
 As I was sketching out the ideas, I realised that doodling the ideas was more than just another exercise as I used to think before (I would often skip sketching and jump straight into wireframing to save time, which often resulted in me wasting time pursuing meaningless ideas). Sketching gets you from facing an entirely mental problem to the point where you clearly see the solution (Schütze et al. 2003) — but it's crucial to iterate and keep improving.
 
@@ -38,6 +39,7 @@ I used the second iteration of sketches to put together a flow chart, so I am ab
 [Download this week's activities](./img/02/04.pdf)
 
 ---
+
 ## Learnings
 - Sketching provides an incredible opportunity for exploring ideas at the lowest cost possible, transforms mental concepts into tangible semi-baked solutions;
 - Sketching is a vital step when the problem area is unexplored, or when the concept is new: it gives the opportunity to get rid of solutions that would definitely not work early in the process;
@@ -46,6 +48,7 @@ I used the second iteration of sketches to put together a flow chart, so I am ab
 - Design studio activities help uncover opportunities for refinement early in the design process (it is important not to do the exercise alone and always test the solutions, even with a handful of participants, informally).
 
 ---
+
 ## Plans for the future
 - ==Research the best gamification practices==: the aspect promises a decent amount of potential for higher engagement, I should seize the opportunity and explore how to make it more fun and meaningful for the user;
 - ==Information architecture==: it is a good time to start thinking about how the application will be structured — from primary menu to supplementary navigation. It might be a good idea to set up Optimal Workshop and begin recruiting the participants for testing;
